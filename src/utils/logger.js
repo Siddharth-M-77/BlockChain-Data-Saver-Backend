@@ -1,0 +1,21 @@
+import winston from "winston";
+import dotenv from "dotenv";
+dotenv.config();
+
+const { combine, timestamp, printf, colorize } = winston.format;
+
+const logFormat = printf(({ level, message, timestamp }) => {
+  return `${timestamp} [${level}]: ${message}`;
+});
+
+export const logger = winston.createLogger({
+  level: process.env.LOG_LEVEL || "info",
+  format: combine(timestamp(), logFormat),
+  transports: [
+    new winston.transports.Console({
+      format: combine(colorize(), timestamp(), logFormat)
+    }),
+    new winston.transports.File({ filename: "logs/indexer.log", level: "info" }),
+    new winston.transports.File({ filename: "logs/error.log", level: "error" })
+  ]
+});

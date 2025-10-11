@@ -10,6 +10,7 @@ import Transaction from "./models/Transaction.model.js";
 import connectToDB from "./DB/DB.js";
 
 const RPC_HTTP = process.env.RPC_HTTP;
+console.log(RPC_HTTP, "RPC_HTTP");
 const RPC_WS = process.env.RPC_WS;
 const BATCH_SIZE = Number(process.env.BATCH_SIZE || 50);
 const CRON_SCHEDULE = process.env.CRON_SCHEDULE || "*/1 * * * *";

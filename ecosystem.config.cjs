@@ -1,16 +1,20 @@
 module.exports = {
   apps: [
     {
-      name: "indexer",
-      script: "./src/indexer.js",
+      name: "cbm-server",
+      script: "./src/server.js",
+      instances: 1,
       autorestart: true,
       watch: false,
+      max_memory_restart: "1G",
     },
     {
-      name: "api",
-      script: "./src/server.js",
+      name: "cbm-indexer",
+      script: "./src/indexer.js",
+      instances: 1,
       autorestart: true,
       watch: false,
+      max_memory_restart: "1G",
     },
   ],
 };

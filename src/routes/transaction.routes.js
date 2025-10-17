@@ -3,17 +3,19 @@ import {
   getAllStats,
   getAllTRansactionCount,
   getAllTransactions,
+  getValidators,
   smartTransactionSearch,
 } from "../../src/controller/transaction.controller.js";
+import { getTopAccounts } from "../controller/accountController.js";
 
 const router = express.Router();
 
-// ✅ Get all transactions
 router.get("/data", getAllTransactions);
 
-// ✅ Smart search by hash/address/block
 router.get("/search/:input", smartTransactionSearch);
 router.get("/stats", getAllStats);
 router.get("/total-transactions", getAllTRansactionCount);
+router.get("/get-validators", getValidators);
+router.get("/get-top-accounts", getTopAccounts);
 
 export default router;

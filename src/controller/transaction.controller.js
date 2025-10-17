@@ -1,4 +1,5 @@
 import Transaction from "../models/Transaction.model.js";
+import axios from "axios";
 
 export const smartTransactionSearch = async (req, res) => {
   try {
@@ -150,7 +151,6 @@ export const getAllTransactions = async (req, res) => {
 };
 
 export const getAllStats = async (req, res) => {
-
   try {
     const now = Math.floor(Date.now() / 1000);
     const oneHourAgo = now - 3600;
@@ -214,8 +214,7 @@ export const getAllStats = async (req, res) => {
   }
 };
 
-export const getAllTRansactionCount = async(req, res) => {
-
+export const getAllTRansactionCount = async (req, res) => {
   try {
     const count = await Transaction.countDocuments();
     res.status(200).json({
@@ -229,4 +228,71 @@ export const getAllTRansactionCount = async(req, res) => {
       message: error.message,
     });
   }
-}
+};
+
+const RPC_URL = process.env.RPC_HTTP || "http://127.0.0.1:8545";
+
+// Helper function for JSON-RPC calls
+const rpcCall = async (method, params = []) => {
+  const { data } = await axios.post(RPC_URL, {
+    jsonrpc: "2.0",
+    id: 1,
+    method,
+    params,
+  });
+  return data.result;
+};
+
+// 🧩 Controller: Fetch all validators (Clique signers)
+export const getValidators = async (req, res) => {
+  try {
+    // Fetch validator (signer) addresses
+    const signers = await rpcCall("clique_getSigners", ["latest"]);
+
+    // Latest block number
+    const latestHex = await rpcCall("eth_blockNumber");
+    const latest = parseInt(latestHex, 16);
+
+    // Fetch last 20 blocks to calculate signer activity
+    const limit = 20;
+    const blocks = [];
+    for (let i = Math.max(0, latest - limit); i <= latest; i++) {
+      const hex = "0x" + i.toString(16);
+      const block = await rpcCall("eth_getBlockByNumber", [hex, false]);
+      if (block) {
+        blocks.push({
+          number: i,
+          miner: block.miner,
+          timestamp: block.timestamp,
+        });
+      }
+    }
+
+    // Activity count per validator
+    const activity = {};
+    signers.forEach((s) => (activity[s.toLowerCase()] = 0));
+    blocks.forEach((b) => {
+      if (b.miner) {
+        const m = b.miner.toLowerCase();
+        if (activity[m] !== undefined) activity[m]++;
+      }
+    });
+
+    // Response object
+    const validators = signers.map((addr) => ({
+      address: addr,
+      signedBlocks: activity[addr.toLowerCase()] || 0,
+    }));
+
+    const chainId = parseInt(await rpcCall("eth_chainId"), 16);
+
+    res.status(200).json({
+      chainId,
+      totalValidators: validators.length,
+      validators,
+    });
+  } catch (err) {
+    console.error("❌ Error fetching validators:", err.message);
+    res.status(500).json({ error: err.message });
+  }
+};

@@ -1,6 +1,7 @@
-import TokenCreate from "../models/TokenCreate.model.js"; // ✅ correct model import
+import TokenCreate from "../models/TokenCreate.model.js";
 import { ethers } from "ethers";
 import solc from "solc";
+import { uploadToImageKit } from "../utils/imagekit.js";
 
 export const verifyAndPublish = async (req, res) => {
   try {
@@ -14,7 +15,6 @@ export const verifyAndPublish = async (req, res) => {
       });
     }
 
-    // ✅ Step 1: Connect to your RPC
     const provider = new ethers.JsonRpcProvider("http://127.0.0.1:8545");
 
     // ✅ Step 2: Fetch deployed bytecode from blockchain
@@ -157,5 +157,90 @@ export const getAllTokens = async (req, res) => {
       success: false,
       message: error.message,
     });
+  }
+};
+
+export const submitToken = async (req, res) => {
+  try {
+    const { name, symbol, description, ownerAddress } = req.body;
+    console.log(req.body);
+
+    if (!name || !symbol || !ownerAddress) {
+      return res.status(400).json({
+        success: false,
+        message: "❌ Missing required fields: name, symbol, or ownerAddress",
+      });
+    }
+
+    let imageUrl = null;
+    if (req.file) {
+      const uploaded = await uploadToImageKit(req.file, "Blockchain_Tokens");
+      imageUrl = uploaded?.url || null;
+
+      fs.unlinkSync(req.file.path);
+    }
+
+    const newToken = await TokenVerificationList.create({
+      name,
+      symbol,
+      description,
+      ownerAddress,
+      image: imageUrl,
+      verified: false,
+      submittedAt: new Date(),
+    });
+
+    return res.status(201).json({
+      success: true,
+      message: "✅ Token submitted successfully!",
+      token: newToken,
+    });
+  } catch (err) {
+    console.error("❌ Error submitting token:", err);
+    res.status(500).json({ success: false, message: err.message });
+  }
+};
+
+// 🧑‍⚖️ Admin verify token
+export const verifyToken = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const dbPath = "./data/tokens.json";
+    if (!fs.existsSync(dbPath))
+      return res
+        .status(404)
+        .json({ success: false, message: "No tokens found" });
+
+    let tokens = JSON.parse(fs.readFileSync(dbPath));
+    const index = tokens.findIndex((t) => t.id === Number(id));
+
+    if (index === -1)
+      return res
+        .status(404)
+        .json({ success: false, message: "Token not found" });
+
+    tokens[index].verified = true;
+    tokens[index].verifiedAt = new Date();
+
+    fs.writeFileSync(dbPath, JSON.stringify(tokens, null, 2));
+    res
+      .status(200)
+      .json({ success: true, message: "Token verified successfully" });
+  } catch (err) {
+    console.error("❌ Error verifying token:", err);
+    res.status(500).json({ success: false, message: err.message });
+  }
+};
+
+// 📋 List tokens (admin view)
+export const getTokens = async (req, res) => {
+  try {
+    const dbPath = "./data/tokens.json";
+    if (!fs.existsSync(dbPath)) return res.json({ tokens: [] });
+
+    const tokens = JSON.parse(fs.readFileSync(dbPath));
+    res.json({ success: true, tokens });
+  } catch (err) {
+    res.status(500).json({ success: false, message: err.message });
   }
 };

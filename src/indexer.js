@@ -123,6 +123,7 @@
 // });
 
 import dotenv from "dotenv";
+import { formatUnits } from "ethers";
 dotenv.config();
 
 import mongoose from "mongoose";
@@ -177,12 +178,14 @@ function decodeRbmTransfers(receipt) {
       try {
         const parsed = rbmInterface.parseLog(log);
         if (parsed.name === "Transfer") {
+          const humanValue = formatUnits(parsed.args.value, 18);
           transfers.push({
             tokenName: "RBM",
             tokenAddress: RBM_TOKEN_ADDRESS,
             from: parsed.args.from,
             to: parsed.args.to,
-            value: parsed.args.value.toString(),
+            // value: parsed.args.value.toString(),
+            value: humanValue,
           });
         }
       } catch {}

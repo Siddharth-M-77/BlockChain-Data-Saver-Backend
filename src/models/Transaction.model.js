@@ -26,7 +26,6 @@ const transactionSchema = new mongoose.Schema(
     blockNumber: { type: Number, index: true },
     timeStamp: { type: Number },
 
-    // 🧩 Transaction type
     type: {
       type: String,
       enum: ["native", "token"],
@@ -34,7 +33,6 @@ const transactionSchema = new mongoose.Schema(
       index: true,
     },
 
-    // 🪙 Array of token transfers (for RBM)
     tokenTransfers: [tokenTransferSchema],
   },
   { timestamps: true }

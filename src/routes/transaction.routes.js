@@ -5,6 +5,7 @@ import {
   getAllTransactions,
   getValidators,
   smartTransactionSearch,
+  getAllBlocks,
 } from "../../src/controller/transaction.controller.js";
 import { getTopAccounts } from "../controller/accountController.js";
 
@@ -14,6 +15,7 @@ router.get("/data", getAllTransactions);
 
 router.get("/search/:input", smartTransactionSearch);
 router.get("/stats", getAllStats);
+router.get("/blocks", getAllBlocks);
 router.get("/total-transactions", getAllTRansactionCount);
 router.get("/get-validators", getValidators);
 router.get("/get-top-accounts", getTopAccounts);

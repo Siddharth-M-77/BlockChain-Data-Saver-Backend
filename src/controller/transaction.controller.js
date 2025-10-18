@@ -1,6 +1,6 @@
 import Transaction from "../models/Transaction.model.js";
 import axios from "axios";
-
+import BlockMeta from "../models/BlockMeta.js";
 export const smartTransactionSearch = async (req, res) => {
   try {
     const { input } = req.params;
@@ -14,7 +14,6 @@ export const smartTransactionSearch = async (req, res) => {
 
     const value = input.trim().toLowerCase();
 
-    // ✅ Detect input type
     const isHash = value.startsWith("0x") && value.length === 66;
     const isAddress = value.startsWith("0x") && value.length === 42;
     const isBlockNumber = /^[0-9]+$/.test(value);
@@ -294,5 +293,21 @@ export const getValidators = async (req, res) => {
   } catch (err) {
     console.error("❌ Error fetching validators:", err.message);
     res.status(500).json({ error: err.message });
+  }
+};
+
+export const getAllBlocks = async (req, res) => {
+  try {
+    const blocks = await BlockMeta.find().lean();
+    res.status(200).json({
+      success: true,
+      blocks,
+    });
+  } catch (error) {
+    console.error("Error in getAllBlocks:", error.message);
+    res.status(500).json({
+      success: false,
+      message: error.message,
+    });
   }
 };

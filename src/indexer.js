@@ -129,7 +129,7 @@ dotenv.config();
 import mongoose from "mongoose";
 import { ethers } from "ethers";
 import cron from "node-cron";
-import { BlockMeta } from "./models/BlockMeta.js";
+import BlockMeta from "./models/BlockMeta.js";
 import { logger } from "./utils/logger.js";
 import Transaction from "./models/Transaction.model.js";
 import connectToDB from "./DB/DB.js";

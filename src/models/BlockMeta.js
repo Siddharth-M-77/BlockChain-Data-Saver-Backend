@@ -9,4 +9,5 @@ const blockMetaSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export const BlockMeta = mongoose.model("BlockMeta", blockMetaSchema);
+const BlockMeta = mongoose.model("BlockMeta", blockMetaSchema);
+export default BlockMeta;

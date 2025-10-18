@@ -13,9 +13,12 @@ export const logger = winston.createLogger({
   format: combine(timestamp(), logFormat),
   transports: [
     new winston.transports.Console({
-      format: combine(colorize(), timestamp(), logFormat)
+      format: combine(colorize(), timestamp(), logFormat),
     }),
-    new winston.transports.File({ filename: "logs/indexer.log", level: "info" }),
-    new winston.transports.File({ filename: "logs/error.log", level: "error" })
-  ]
+    new winston.transports.File({
+      filename: "logs/indexer.log",
+      level: "info",
+    }),
+    new winston.transports.File({ filename: "logs/error.log", level: "error" }),
+  ],
 });

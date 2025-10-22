@@ -311,6 +311,7 @@ import UserHolding from "./models/UserHolding.js";
 import TokenRegistry from "./models/TokenRegistry.js";
 import { logger } from "./utils/logger.js";
 import connectToDB from "./DB/DB.js";
+import { updateBalances } from "./utils/updatebalance.js";
 
 dotenv.config();
 
@@ -341,9 +342,9 @@ async function saveBlockMeta(block) {
   );
 }
 
+// ✅ Token info cache
 async function getTokenInfo(tokenAddress) {
   const addr = tokenAddress.toLowerCase();
-
   const existing = await TokenRegistry.findOne({ address: addr });
   if (existing) return existing;
 
@@ -378,8 +379,9 @@ async function getTokenInfo(tokenAddress) {
   }
 }
 
+// ✅ User token holdings update
 async function updateHoldings(from, to, tokenAddress, symbol, name, value) {
-  const val = parseFloat(value);
+  const val = parseFloat(value || 0);
   if (val <= 0) return;
 
   if (from && from !== ethers.ZeroAddress) {
@@ -405,6 +407,7 @@ async function updateHoldings(from, to, tokenAddress, symbol, name, value) {
   }
 }
 
+// ✅ Decode ERC-20 Transfers
 async function decodeAllTokenTransfers(receipt) {
   const transfers = [];
   const iface = new ethers.Interface([
@@ -436,6 +439,7 @@ async function decodeAllTokenTransfers(receipt) {
   return transfers;
 }
 
+// ✅ Block processor (null-safe + tx-safe)
 async function processBlocks(start, end) {
   for (let i = start; i <= end; i++) {
     try {
@@ -448,41 +452,51 @@ async function processBlocks(start, end) {
       const txDocs = [];
 
       for (const tx of block.transactions) {
-        const txData = {
-          hash: tx.hash,
-          from: tx.from,
-          to: tx.to || null,
-          value: tx.value || "0x0",
-          gasUsed: tx.gas || "0x0",
-          gasPrice: tx.gasPrice || "0x0",
-          nonce: parseInt(tx.nonce),
-          blockNumber: parseInt(block.number),
-          timeStamp: parseInt(block.timestamp),
-          type: "native",
-        };
+        try {
+          const safeValue = tx?.value ?? "0x0";
 
-        const receipt = await provider.getTransactionReceipt(tx.hash);
-        if (!receipt) continue;
+          const txData = {
+            hash: tx.hash,
+            from: tx.from,
+            to: tx.to || null,
+            value: safeValue,
+            gasUsed: tx.gas || "0x0",
+            gasPrice: tx.gasPrice || tx.maxFeePerGas || "0x0",
+            nonce: Number(tx.nonce ?? 0),
+            blockNumber: Number(block.number),
+            timeStamp: Number(block.timestamp),
+            type: "native",
+          };
 
-        const tokenTransfers = await decodeAllTokenTransfers(receipt);
+          await updateBalances(tx.from, tx.to, safeValue);
 
-        if (tokenTransfers.length > 0) {
-          txData.type = "token";
-          txData.tokenTransfers = tokenTransfers;
+          const receipt = await provider.getTransactionReceipt(tx.hash);
+          if (!receipt) continue;
 
-          for (const t of tokenTransfers) {
-            await updateHoldings(
-              t.from,
-              t.to,
-              t.tokenAddress,
-              t.tokenSymbol,
-              t.tokenName,
-              t.value
-            );
+          const tokenTransfers = await decodeAllTokenTransfers(receipt);
+
+          if (tokenTransfers.length > 0) {
+            txData.type = "token";
+            txData.tokenTransfers = tokenTransfers;
+
+            for (const t of tokenTransfers) {
+              await updateHoldings(
+                t.from,
+                t.to,
+                t.tokenAddress,
+                t.tokenSymbol,
+                t.tokenName,
+                t.value
+              );
+            }
           }
-        }
 
-        txDocs.push(txData);
+          txDocs.push(txData);
+        } catch (txErr) {
+          logger.error(
+            `⚠️ Error in tx inside block ${i}: ${txErr.message || txErr}`
+          );
+        }
       }
 
       if (txDocs.length > 0) {
@@ -493,9 +507,9 @@ async function processBlocks(start, end) {
       }
 
       await saveBlockMeta({
-        number: parseInt(block.number),
+        number: Number(block.number),
         hash: block.hash,
-        timestamp: parseInt(block.timestamp),
+        timestamp: Number(block.timestamp),
       });
     } catch (err) {
       logger.error(`❌ Error processing block ${i}: ${err.message}`);
@@ -503,6 +517,7 @@ async function processBlocks(start, end) {
   }
 }
 
+// ✅ Cron job for indexing new blocks
 async function indexerJob() {
   if (isIndexing) return;
   isIndexing = true;
@@ -530,6 +545,7 @@ async function indexerJob() {
   isIndexing = false;
 }
 
+// ✅ Start the indexer
 async function startIndexer() {
   await connectToDB();
   logger.info("🚀 Multi-Token Indexer Started");

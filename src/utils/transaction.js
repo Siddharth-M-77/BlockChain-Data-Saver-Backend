@@ -40,7 +40,6 @@ const usdtContract = new ethers.Contract(
   bscProvider
 );
 
-// Persist processed transactions to avoid duplicate processing
 const DB_FILE = path.join(__dirname, "processed_cross_tx.json");
 let processed = {};
 try {

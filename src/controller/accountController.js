@@ -1,23 +1,22 @@
 import axios from "axios";
 
-// 🧩 RPC URL (update if your node is remote)
-const RPC_URL = process.env.RPC_HTTP || "http://127.0.0.1:8545";
+const RPC_URL = "https://rpc.cbmscan.com/";
 
-// 🔧 Generic RPC call helper
+// ✅ Helper function for raw RPC calls
 const rpcCall = async (method, params = []) => {
-  const { data } = await axios.post(RPC_URL, {
+  const res = await axios.post(RPC_URL, {
     jsonrpc: "2.0",
-    id: 1,
     method,
     params,
+    id: 1,
   });
-  return data.result;
+  return res.data.result;
 };
 
-// 💰 Controller: Get Top Accounts
+// ✅ Main Function
 export const getTopAccounts = async (req, res) => {
   try {
-    // Get all local accounts (created on this node)
+    // 1️⃣ Fetch all local node accounts
     const accounts = await rpcCall("eth_accounts");
 
     if (!accounts || accounts.length === 0) {
@@ -28,14 +27,13 @@ export const getTopAccounts = async (req, res) => {
       });
     }
 
-    // Fetch balance for each account
+    // 2️⃣ Fetch balances and txn counts
     const accountData = await Promise.all(
       accounts.map(async (addr) => {
         const balanceHex = await rpcCall("eth_getBalance", [addr, "latest"]);
-        const balanceWei = parseInt(balanceHex, 16);
-        const balanceEth = balanceWei / 1e18; // convert to CBM
+        const balanceWei = BigInt(balanceHex);
+        const balanceEth = Number(balanceWei) / 1e18;
 
-        // You can extend this to fetch txn count
         const txnHex = await rpcCall("eth_getTransactionCount", [
           addr,
           "latest",
@@ -44,21 +42,20 @@ export const getTopAccounts = async (req, res) => {
 
         return {
           address: addr,
-          nameTag: "",
+          nameTag: "Local Account",
           balance: balanceEth,
-          percentage: "-", // later you can calculate % of total
           txnCount,
         };
       })
     );
 
-    // Sort by balance descending (top holders)
+    // 3️⃣ Sort by balance
     const sorted = accountData.sort((a, b) => b.balance - a.balance);
 
-    // Calculate total balance for % calculation
+    // 4️⃣ Calculate total
     const totalBalance = sorted.reduce((sum, a) => sum + a.balance, 0);
 
-    // Format with percentage
+    // 5️⃣ Add percentage info
     const formatted = sorted.map((acc) => ({
       ...acc,
       balance: acc.balance.toFixed(6),
@@ -66,21 +63,20 @@ export const getTopAccounts = async (req, res) => {
         totalBalance > 0
           ? ((acc.balance / totalBalance) * 100).toFixed(2) + "%"
           : "-",
-      txnCount: acc.txnCount,
     }));
 
-    // Limit top N (default 10)
+    // 6️⃣ Slice top N
     const topLimit = Number(req.query.limit) || 10;
     const topAccounts = formatted.slice(0, topLimit);
 
     // ✅ Final Response
-    res.status(200).json({
+    return res.status(200).json({
       totalAccounts: accounts.length,
       totalBalance: totalBalance.toFixed(6),
       accounts: topAccounts,
     });
   } catch (err) {
     console.error("❌ Error fetching top accounts:", err.message);
-    res.status(500).json({ error: err.message });
+    return res.status(500).json({ error: err.message });
   }
 };

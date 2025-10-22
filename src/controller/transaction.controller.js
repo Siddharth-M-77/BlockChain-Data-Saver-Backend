@@ -1,6 +1,7 @@
 import Transaction from "../models/Transaction.model.js";
 import axios from "axios";
 import BlockMeta from "../models/BlockMeta.js";
+import UserHolding from "../models/UserHolding.js";
 export const smartTransactionSearch = async (req, res) => {
   try {
     const { input } = req.params;
@@ -305,6 +306,23 @@ export const getAllBlocks = async (req, res) => {
     });
   } catch (error) {
     console.error("Error in getAllBlocks:", error.message);
+    res.status(500).json({
+      success: false,
+      message: error.message,
+    });
+  }
+};
+
+export const getAllRbmHolders = async (req, res) => {
+  try {
+    const holders = await UserHolding.find().sort({ balance: -1 }).lean();
+
+    res.status(200).json({
+      success: true,
+      holders,
+    });
+  } catch (error) {
+    console.error("Error in getAllRbmHolders:", error.message);
     res.status(500).json({
       success: false,
       message: error.message,

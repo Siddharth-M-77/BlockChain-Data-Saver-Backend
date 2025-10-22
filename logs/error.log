@@ -1,0 +1,1019 @@
+2025-10-18T13:41:40.093Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T13:41:50.092Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T13:58:00.545Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T14:01:10.083Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T14:01:40.793Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T14:01:50.682Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T14:02:10.309Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T14:51:50.424Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-18T19:45:50.714Z [error]: ❌ Indexer job failed: request timeout (code=TIMEOUT, version=6.15.0)
+2025-10-18T20:39:28.832Z [error]: ❌ Indexer job failed: connection <monitor> to 159.41.170.220:27017 timed out
+2025-10-18T22:14:31.128Z [error]: ❌ Indexer job failed: connection <monitor> to 159.41.170.205:27017 timed out
+2025-10-21T12:46:00.860Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T12:46:10.853Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T12:46:20.881Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T12:46:30.901Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T12:46:40.921Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:01:50.648Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:00.653Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:10.664Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:20.683Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:30.734Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:40.760Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:02:50.789Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:00.811Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:10.828Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:20.853Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:30.872Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:40.900Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:03:50.928Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:00.948Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:10.973Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:21.003Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:30.032Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:40.048Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:04:50.072Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:00.094Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:10.130Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:20.146Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:30.170Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:40.199Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:05:50.221Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:00.242Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:10.266Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:20.291Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:30.319Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:40.339Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:06:50.366Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:00.405Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:10.421Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:20.443Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:30.470Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:40.491Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:07:50.526Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:00.538Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:10.564Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:20.585Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:30.629Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:40.643Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:08:50.681Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:00.699Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:10.718Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:20.792Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:30.800Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:40.829Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:09:50.859Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:00.874Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:10.905Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:20.930Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:30.960Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:40.970Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:10:51.002Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:00.039Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:10.064Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:20.075Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:30.097Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:40.124Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:11:50.164Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:00.172Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:10.198Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:20.220Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:30.247Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:40.279Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:12:50.292Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:00.317Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:10.342Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:20.367Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:30.391Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:40.412Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:13:50.456Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:00.471Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:10.483Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:20.507Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:30.527Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:40.552Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:14:50.581Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:00.603Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:10.613Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:20.638Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:30.658Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:40.681Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:15:50.740Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:00.756Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:10.781Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:20.805Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:30.825Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:40.846Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:16:50.881Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:00.900Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:10.918Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:20.941Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:30.965Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:40.985Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:17:51.019Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:00.070Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:10.080Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:20.105Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:30.134Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:40.170Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:18:50.179Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:00.215Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:10.242Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:20.269Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:30.290Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:40.313Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:19:50.347Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:00.388Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:10.389Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:20.411Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:30.435Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:40.457Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:20:50.479Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:00.500Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:10.524Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:20.543Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:30.572Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:40.584Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:21:50.613Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:00.628Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:10.649Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:20.673Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:30.703Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:40.729Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:22:50.756Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:00.789Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:10.821Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:20.834Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:30.862Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:40.896Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:23:50.917Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:00.968Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:10.976Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:21.014Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:31.019Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:40.046Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:24:50.072Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:00.092Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:10.117Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:20.136Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:30.165Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:40.178Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:25:50.208Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:00.231Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:10.253Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:20.305Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:30.321Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:40.350Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:26:50.376Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:00.409Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:10.437Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:20.452Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:30.477Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:40.494Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:27:50.515Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:00.536Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:10.562Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:20.583Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:30.604Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:40.637Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:28:50.671Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:00.699Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:10.707Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:20.732Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:30.756Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:40.781Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:29:50.804Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:00.826Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:10.844Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:20.865Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:30.884Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:40.910Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:30:50.943Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:00.965Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:10.999Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:21.020Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:30.030Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:40.057Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:31:50.087Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:00.123Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:10.144Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:20.181Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:30.189Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:40.216Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:32:50.249Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:00.269Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:10.292Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:20.336Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:30.361Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:40.380Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:33:50.397Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:00.449Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:10.472Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:20.488Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:30.504Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:40.529Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:34:50.549Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:00.573Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:10.596Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:20.615Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:30.643Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:40.664Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:35:50.688Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:00.731Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:10.738Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:20.766Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:30.781Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:40.815Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:36:50.830Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:00.870Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:10.890Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:20.916Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:30.932Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:40.954Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:37:50.975Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:01.016Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:10.025Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:20.052Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:30.066Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:40.127Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:38:50.125Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:00.150Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:10.173Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:20.192Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:30.215Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:40.236Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:39:50.257Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:00.331Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:10.311Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:20.331Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:30.352Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:40.377Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:40:50.405Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:00.448Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:10.457Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:20.479Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:30.502Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:40.523Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:41:50.543Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:00.573Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:10.590Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:20.622Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:30.643Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:40.673Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:42:50.696Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:00.725Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:10.744Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:20.765Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:30.787Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:40.814Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:43:50.845Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:00.875Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:10.885Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:20.917Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:30.932Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:40.954Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:44:50.991Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:01.020Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:10.034Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:20.064Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:30.074Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:40.100Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:45:50.124Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:00.150Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:10.173Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:20.195Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:30.210Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:40.245Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:46:50.253Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:00.335Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:10.312Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:20.333Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:30.356Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:40.381Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:47:50.404Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:00.421Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:10.442Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:20.465Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:30.488Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:40.509Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:48:50.538Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:00.571Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:10.581Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:20.600Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:30.626Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:40.644Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:49:50.667Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:00.698Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:10.714Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:20.731Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:30.756Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:40.777Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:50:50.796Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:00.819Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:10.837Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:20.853Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:30.871Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:40.893Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:51:50.913Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:00.942Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:10.960Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:20.997Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:31.004Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:40.023Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:52:50.037Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:00.067Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:10.082Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:20.106Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:30.124Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:40.144Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:53:50.167Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:00.187Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:10.207Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:20.225Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:30.240Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:40.265Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:54:50.285Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:55:00.362Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-21T13:55:10.372Z [error]: ❌ Indexer job failed: getaddrinfo ENOTFOUND rpc.cbmscan.com
+2025-10-22T19:51:09.219Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T19:51:10.304Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T19:51:58.916Z [error]: ❌ Error processing block 1: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.008Z [error]: ❌ Error processing block 2: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.109Z [error]: ❌ Error processing block 3: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.208Z [error]: ❌ Error processing block 4: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.308Z [error]: ❌ Error processing block 5: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.407Z [error]: ❌ Error processing block 6: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.514Z [error]: ❌ Error processing block 7: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.608Z [error]: ❌ Error processing block 8: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.706Z [error]: ❌ Error processing block 9: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.810Z [error]: ❌ Error processing block 10: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:51:59.909Z [error]: ❌ Error processing block 11: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.011Z [error]: ❌ Error processing block 12: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.408Z [error]: ❌ Error processing block 13: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.517Z [error]: ❌ Error processing block 14: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.620Z [error]: ❌ Error processing block 15: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.720Z [error]: ❌ Error processing block 16: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:00.837Z [error]: ❌ Error processing block 17: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.005Z [error]: ❌ Error processing block 18: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.110Z [error]: ❌ Error processing block 19: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.220Z [error]: ❌ Error processing block 20: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.331Z [error]: ❌ Error processing block 21: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.524Z [error]: ❌ Error processing block 22: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.631Z [error]: ❌ Error processing block 23: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.810Z [error]: ❌ Error processing block 24: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:01.908Z [error]: ❌ Error processing block 25: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.011Z [error]: ❌ Error processing block 26: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.127Z [error]: ❌ Error processing block 27: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.218Z [error]: ❌ Error processing block 28: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.321Z [error]: ❌ Error processing block 29: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.411Z [error]: ❌ Error processing block 30: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.509Z [error]: ❌ Error processing block 31: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:52:02.607Z [error]: ❌ Error processing block 32: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:22.866Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T19:54:34.364Z [error]: ❌ Error processing block 1: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.449Z [error]: ❌ Error processing block 2: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.553Z [error]: ❌ Error processing block 3: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.648Z [error]: ❌ Error processing block 4: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.749Z [error]: ❌ Error processing block 5: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.854Z [error]: ❌ Error processing block 6: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:34.952Z [error]: ❌ Error processing block 7: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.046Z [error]: ❌ Error processing block 8: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.150Z [error]: ❌ Error processing block 9: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.245Z [error]: ❌ Error processing block 10: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.345Z [error]: ❌ Error processing block 11: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.447Z [error]: ❌ Error processing block 12: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.547Z [error]: ❌ Error processing block 13: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.645Z [error]: ❌ Error processing block 14: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.750Z [error]: ❌ Error processing block 15: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:35.979Z [error]: ❌ Error processing block 16: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:36.144Z [error]: ❌ Error processing block 17: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:36.244Z [error]: ❌ Error processing block 18: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:54.785Z [error]: ❌ Error processing block 1: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:54.939Z [error]: ❌ Error processing block 2: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.040Z [error]: ❌ Error processing block 3: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.148Z [error]: ❌ Error processing block 4: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.261Z [error]: ❌ Error processing block 5: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.365Z [error]: ❌ Error processing block 6: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.467Z [error]: ❌ Error processing block 7: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.571Z [error]: ❌ Error processing block 8: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:54:55.691Z [error]: ❌ Error processing block 9: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:57:28.341Z [error]: ❌ Error processing block 1: tx is not defined
+2025-10-22T19:57:28.433Z [error]: ❌ Error processing block 2: tx is not defined
+2025-10-22T19:57:28.536Z [error]: ❌ Error processing block 3: tx is not defined
+2025-10-22T19:57:28.638Z [error]: ❌ Error processing block 4: tx is not defined
+2025-10-22T19:57:28.739Z [error]: ❌ Error processing block 5: tx is not defined
+2025-10-22T19:57:28.841Z [error]: ❌ Error processing block 6: tx is not defined
+2025-10-22T19:57:28.994Z [error]: ❌ Error processing block 7: tx is not defined
+2025-10-22T19:57:29.102Z [error]: ❌ Error processing block 8: tx is not defined
+2025-10-22T19:57:29.211Z [error]: ❌ Error processing block 9: tx is not defined
+2025-10-22T19:57:29.316Z [error]: ❌ Error processing block 10: tx is not defined
+2025-10-22T19:57:29.412Z [error]: ❌ Error processing block 11: tx is not defined
+2025-10-22T19:59:24.990Z [error]: ⚠️ Error in tx inside block 1: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:25.175Z [error]: ⚠️ Error in tx inside block 2: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:25.355Z [error]: ⚠️ Error in tx inside block 3: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:25.555Z [error]: ⚠️ Error in tx inside block 4: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:25.733Z [error]: ⚠️ Error in tx inside block 5: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:25.915Z [error]: ⚠️ Error in tx inside block 6: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:26.141Z [error]: ⚠️ Error in tx inside block 7: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:26.345Z [error]: ⚠️ Error in tx inside block 8: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:26.533Z [error]: ⚠️ Error in tx inside block 9: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:26.713Z [error]: ⚠️ Error in tx inside block 10: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:26.895Z [error]: ⚠️ Error in tx inside block 11: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:27.094Z [error]: ⚠️ Error in tx inside block 12: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:27.284Z [error]: ⚠️ Error in tx inside block 13: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:27.465Z [error]: ⚠️ Error in tx inside block 14: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:27.663Z [error]: ⚠️ Error in tx inside block 15: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:27.844Z [error]: ⚠️ Error in tx inside block 16: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:28.026Z [error]: ⚠️ Error in tx inside block 17: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:28.225Z [error]: ⚠️ Error in tx inside block 18: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:28.412Z [error]: ⚠️ Error in tx inside block 19: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:28.713Z [error]: ⚠️ Error in tx inside block 20: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:28.886Z [error]: ⚠️ Error in tx inside block 21: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:29.066Z [error]: ⚠️ Error in tx inside block 22: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:29.461Z [error]: ⚠️ Error in tx inside block 23: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:29.655Z [error]: ⚠️ Error in tx inside block 24: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:29.841Z [error]: ⚠️ Error in tx inside block 25: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:30.033Z [error]: ⚠️ Error in tx inside block 26: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:30.224Z [error]: ⚠️ Error in tx inside block 27: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:30.433Z [error]: ⚠️ Error in tx inside block 28: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:30.633Z [error]: ⚠️ Error in tx inside block 29: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:30.835Z [error]: ⚠️ Error in tx inside block 30: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:31.035Z [error]: ⚠️ Error in tx inside block 31: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:31.235Z [error]: ⚠️ Error in tx inside block 32: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:31.434Z [error]: ⚠️ Error in tx inside block 33: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:31.633Z [error]: ⚠️ Error in tx inside block 34: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:31.835Z [error]: ⚠️ Error in tx inside block 35: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:32.034Z [error]: ⚠️ Error in tx inside block 36: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:32.235Z [error]: ⚠️ Error in tx inside block 37: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:32.444Z [error]: ⚠️ Error in tx inside block 38: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:32.634Z [error]: ⚠️ Error in tx inside block 39: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:33.131Z [error]: ⚠️ Error in tx inside block 40: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:33.349Z [error]: ⚠️ Error in tx inside block 41: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:33.531Z [error]: ⚠️ Error in tx inside block 42: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:33.731Z [error]: ⚠️ Error in tx inside block 43: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:33.942Z [error]: ⚠️ Error in tx inside block 44: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:34.139Z [error]: ⚠️ Error in tx inside block 45: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:34.340Z [error]: ⚠️ Error in tx inside block 46: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:34.535Z [error]: ⚠️ Error in tx inside block 47: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:34.736Z [error]: ⚠️ Error in tx inside block 48: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:34.932Z [error]: ⚠️ Error in tx inside block 49: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:35.134Z [error]: ⚠️ Error in tx inside block 50: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:35.634Z [error]: ⚠️ Error in tx inside block 51: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:35.842Z [error]: ⚠️ Error in tx inside block 52: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:36.035Z [error]: ⚠️ Error in tx inside block 53: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:36.234Z [error]: ⚠️ Error in tx inside block 54: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:36.441Z [error]: ⚠️ Error in tx inside block 55: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:36.635Z [error]: ⚠️ Error in tx inside block 56: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:36.837Z [error]: ⚠️ Error in tx inside block 57: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:37.045Z [error]: ⚠️ Error in tx inside block 58: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:37.234Z [error]: ⚠️ Error in tx inside block 59: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:37.432Z [error]: ⚠️ Error in tx inside block 60: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:37.631Z [error]: ⚠️ Error in tx inside block 61: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:37.833Z [error]: ⚠️ Error in tx inside block 62: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:38.056Z [error]: ⚠️ Error in tx inside block 63: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:38.256Z [error]: ⚠️ Error in tx inside block 64: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:38.442Z [error]: ⚠️ Error in tx inside block 65: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:38.635Z [error]: ⚠️ Error in tx inside block 66: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:38.832Z [error]: ⚠️ Error in tx inside block 67: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:39.034Z [error]: ⚠️ Error in tx inside block 68: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:39.234Z [error]: ⚠️ Error in tx inside block 69: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:39.433Z [error]: ⚠️ Error in tx inside block 70: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:39.633Z [error]: ⚠️ Error in tx inside block 71: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:40.117Z [error]: ⚠️ Error in tx inside block 72: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:40.314Z [error]: ⚠️ Error in tx inside block 73: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:40.512Z [error]: ⚠️ Error in tx inside block 74: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:40.700Z [error]: ⚠️ Error in tx inside block 75: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:40.883Z [error]: ⚠️ Error in tx inside block 76: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:41.091Z [error]: ⚠️ Error in tx inside block 77: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T19:59:41.285Z [error]: ⚠️ Error in tx inside block 78: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:11.668Z [error]: ⚠️ Error in tx inside block 1: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:11.837Z [error]: ⚠️ Error in tx inside block 2: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:12.036Z [error]: ⚠️ Error in tx inside block 3: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:12.236Z [error]: ⚠️ Error in tx inside block 4: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:12.437Z [error]: ⚠️ Error in tx inside block 5: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:12.635Z [error]: ⚠️ Error in tx inside block 6: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:12.836Z [error]: ⚠️ Error in tx inside block 7: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:13.038Z [error]: ⚠️ Error in tx inside block 8: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:13.252Z [error]: ⚠️ Error in tx inside block 9: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:13.452Z [error]: ⚠️ Error in tx inside block 10: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:13.637Z [error]: ⚠️ Error in tx inside block 11: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:13.844Z [error]: ⚠️ Error in tx inside block 12: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:14.044Z [error]: ⚠️ Error in tx inside block 13: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:14.238Z [error]: ⚠️ Error in tx inside block 14: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:14.445Z [error]: ⚠️ Error in tx inside block 15: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:14.645Z [error]: ⚠️ Error in tx inside block 16: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:14.837Z [error]: ⚠️ Error in tx inside block 17: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:15.038Z [error]: ⚠️ Error in tx inside block 18: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:15.236Z [error]: ⚠️ Error in tx inside block 19: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:15.435Z [error]: ⚠️ Error in tx inside block 20: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:15.640Z [error]: ⚠️ Error in tx inside block 21: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:16.138Z [error]: ⚠️ Error in tx inside block 22: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:16.351Z [error]: ⚠️ Error in tx inside block 23: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:16.541Z [error]: ⚠️ Error in tx inside block 24: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:16.736Z [error]: ⚠️ Error in tx inside block 25: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:16.935Z [error]: ⚠️ Error in tx inside block 26: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:17.136Z [error]: ⚠️ Error in tx inside block 27: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:17.337Z [error]: ⚠️ Error in tx inside block 28: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:17.537Z [error]: ⚠️ Error in tx inside block 29: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:17.737Z [error]: ⚠️ Error in tx inside block 30: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:17.939Z [error]: ⚠️ Error in tx inside block 31: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:18.144Z [error]: ⚠️ Error in tx inside block 32: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:18.338Z [error]: ⚠️ Error in tx inside block 33: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:18.548Z [error]: ⚠️ Error in tx inside block 34: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:18.741Z [error]: ⚠️ Error in tx inside block 35: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:18.938Z [error]: ⚠️ Error in tx inside block 36: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:19.153Z [error]: ⚠️ Error in tx inside block 37: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:19.338Z [error]: ⚠️ Error in tx inside block 38: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:19.536Z [error]: ⚠️ Error in tx inside block 39: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:19.742Z [error]: ⚠️ Error in tx inside block 40: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:19.942Z [error]: ⚠️ Error in tx inside block 41: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:20.125Z [error]: ⚠️ Error in tx inside block 42: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:20.333Z [error]: ⚠️ Error in tx inside block 43: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:20.515Z [error]: ⚠️ Error in tx inside block 44: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:20.970Z [error]: ⚠️ Error in tx inside block 45: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:21.163Z [error]: ⚠️ Error in tx inside block 46: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:21.353Z [error]: ⚠️ Error in tx inside block 47: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:21.524Z [error]: ⚠️ Error in tx inside block 48: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:21.714Z [error]: ⚠️ Error in tx inside block 49: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:21.903Z [error]: ⚠️ Error in tx inside block 50: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:22.095Z [error]: ⚠️ Error in tx inside block 51: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:22.294Z [error]: ⚠️ Error in tx inside block 52: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:22.476Z [error]: ⚠️ Error in tx inside block 53: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:22.674Z [error]: ⚠️ Error in tx inside block 54: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:22.865Z [error]: ⚠️ Error in tx inside block 55: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:23.057Z [error]: ⚠️ Error in tx inside block 56: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:23.254Z [error]: ⚠️ Error in tx inside block 57: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:23.435Z [error]: ⚠️ Error in tx inside block 58: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:23.628Z [error]: ⚠️ Error in tx inside block 59: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:23.826Z [error]: ⚠️ Error in tx inside block 60: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:24.027Z [error]: ⚠️ Error in tx inside block 61: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:24.216Z [error]: ⚠️ Error in tx inside block 62: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:24.417Z [error]: ⚠️ Error in tx inside block 63: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:24.606Z [error]: ⚠️ Error in tx inside block 64: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:24.813Z [error]: ⚠️ Error in tx inside block 65: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.006Z [error]: ⚠️ Error in tx inside block 66: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.185Z [error]: ⚠️ Error in tx inside block 67: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.385Z [error]: ⚠️ Error in tx inside block 68: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.567Z [error]: ⚠️ Error in tx inside block 69: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.765Z [error]: ⚠️ Error in tx inside block 70: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:25.967Z [error]: ⚠️ Error in tx inside block 71: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:26.183Z [error]: ⚠️ Error in tx inside block 72: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:26.384Z [error]: ⚠️ Error in tx inside block 73: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:26.576Z [error]: ⚠️ Error in tx inside block 74: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:26.766Z [error]: ⚠️ Error in tx inside block 75: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:26.965Z [error]: ⚠️ Error in tx inside block 76: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:27.152Z [error]: ⚠️ Error in tx inside block 77: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:27.356Z [error]: ⚠️ Error in tx inside block 78: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:27.543Z [error]: ⚠️ Error in tx inside block 79: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:27.736Z [error]: ⚠️ Error in tx inside block 80: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:27.925Z [error]: ⚠️ Error in tx inside block 81: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:28.115Z [error]: ⚠️ Error in tx inside block 82: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:28.314Z [error]: ⚠️ Error in tx inside block 83: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:28.507Z [error]: ⚠️ Error in tx inside block 84: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:28.699Z [error]: ⚠️ Error in tx inside block 85: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:28.886Z [error]: ⚠️ Error in tx inside block 86: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:29.080Z [error]: ⚠️ Error in tx inside block 87: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:29.311Z [error]: ⚠️ Error in tx inside block 88: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:29.512Z [error]: ⚠️ Error in tx inside block 89: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:29.699Z [error]: ⚠️ Error in tx inside block 90: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:29.934Z [error]: ⚠️ Error in tx inside block 91: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:30.137Z [error]: ⚠️ Error in tx inside block 92: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:30.335Z [error]: ⚠️ Error in tx inside block 93: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:30.538Z [error]: ⚠️ Error in tx inside block 94: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:30.736Z [error]: ⚠️ Error in tx inside block 95: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:30.943Z [error]: ⚠️ Error in tx inside block 96: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:31.137Z [error]: ⚠️ Error in tx inside block 97: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:31.337Z [error]: ⚠️ Error in tx inside block 98: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:31.538Z [error]: ⚠️ Error in tx inside block 99: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:31.736Z [error]: ⚠️ Error in tx inside block 100: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:31.937Z [error]: ⚠️ Error in tx inside block 101: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:32.435Z [error]: ⚠️ Error in tx inside block 102: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:32.635Z [error]: ⚠️ Error in tx inside block 103: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:32.835Z [error]: ⚠️ Error in tx inside block 104: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:33.048Z [error]: ⚠️ Error in tx inside block 105: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:33.253Z [error]: ⚠️ Error in tx inside block 106: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:33.443Z [error]: ⚠️ Error in tx inside block 107: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:33.636Z [error]: ⚠️ Error in tx inside block 108: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:33.835Z [error]: ⚠️ Error in tx inside block 109: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:34.036Z [error]: ⚠️ Error in tx inside block 110: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:34.236Z [error]: ⚠️ Error in tx inside block 111: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:34.445Z [error]: ⚠️ Error in tx inside block 112: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:34.638Z [error]: ⚠️ Error in tx inside block 113: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:34.845Z [error]: ⚠️ Error in tx inside block 114: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:35.037Z [error]: ⚠️ Error in tx inside block 115: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:35.237Z [error]: ⚠️ Error in tx inside block 116: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:35.437Z [error]: ⚠️ Error in tx inside block 117: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:35.638Z [error]: ⚠️ Error in tx inside block 118: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:35.838Z [error]: ⚠️ Error in tx inside block 119: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:36.038Z [error]: ⚠️ Error in tx inside block 120: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:36.243Z [error]: ⚠️ Error in tx inside block 121: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:36.437Z [error]: ⚠️ Error in tx inside block 122: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:36.646Z [error]: ⚠️ Error in tx inside block 123: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:36.846Z [error]: ⚠️ Error in tx inside block 124: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:37.043Z [error]: ⚠️ Error in tx inside block 125: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:37.236Z [error]: ⚠️ Error in tx inside block 126: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:37.445Z [error]: ⚠️ Error in tx inside block 127: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:37.634Z [error]: ⚠️ Error in tx inside block 128: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:37.836Z [error]: ⚠️ Error in tx inside block 129: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:38.042Z [error]: ⚠️ Error in tx inside block 130: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:38.241Z [error]: ⚠️ Error in tx inside block 131: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:38.435Z [error]: ⚠️ Error in tx inside block 132: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:38.643Z [error]: ⚠️ Error in tx inside block 133: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:38.838Z [error]: ⚠️ Error in tx inside block 134: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:39.042Z [error]: ⚠️ Error in tx inside block 135: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:39.243Z [error]: ⚠️ Error in tx inside block 136: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:39.437Z [error]: ⚠️ Error in tx inside block 137: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:39.636Z [error]: ⚠️ Error in tx inside block 138: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:39.827Z [error]: ⚠️ Error in tx inside block 139: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:40.036Z [error]: ⚠️ Error in tx inside block 140: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:40.237Z [error]: ⚠️ Error in tx inside block 141: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:40.444Z [error]: ⚠️ Error in tx inside block 142: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:40.642Z [error]: ⚠️ Error in tx inside block 143: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:40.839Z [error]: ⚠️ Error in tx inside block 144: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.018Z [error]: ⚠️ Error in tx inside block 145: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.214Z [error]: ⚠️ Error in tx inside block 146: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.399Z [error]: ⚠️ Error in tx inside block 147: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.584Z [error]: ⚠️ Error in tx inside block 148: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.778Z [error]: ⚠️ Error in tx inside block 149: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:41.967Z [error]: ⚠️ Error in tx inside block 150: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:42.142Z [error]: ⚠️ Error in tx inside block 151: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:42.326Z [error]: ⚠️ Error in tx inside block 152: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:42.522Z [error]: ⚠️ Error in tx inside block 153: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:42.733Z [error]: ⚠️ Error in tx inside block 154: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:42.923Z [error]: ⚠️ Error in tx inside block 155: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:43.140Z [error]: ⚠️ Error in tx inside block 156: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:43.335Z [error]: ⚠️ Error in tx inside block 157: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:43.522Z [error]: ⚠️ Error in tx inside block 158: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:43.701Z [error]: ⚠️ Error in tx inside block 159: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:43.896Z [error]: ⚠️ Error in tx inside block 160: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:44.075Z [error]: ⚠️ Error in tx inside block 161: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:44.274Z [error]: ⚠️ Error in tx inside block 162: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:44.487Z [error]: ⚠️ Error in tx inside block 163: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:44.660Z [error]: ⚠️ Error in tx inside block 164: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:44.868Z [error]: ⚠️ Error in tx inside block 165: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:45.071Z [error]: ⚠️ Error in tx inside block 166: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:45.258Z [error]: ⚠️ Error in tx inside block 167: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:45.448Z [error]: ⚠️ Error in tx inside block 168: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:45.628Z [error]: ⚠️ Error in tx inside block 169: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:45.832Z [error]: ⚠️ Error in tx inside block 170: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:46.013Z [error]: ⚠️ Error in tx inside block 171: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:46.241Z [error]: ⚠️ Error in tx inside block 172: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:46.413Z [error]: ⚠️ Error in tx inside block 173: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:46.614Z [error]: ⚠️ Error in tx inside block 174: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:46.814Z [error]: ⚠️ Error in tx inside block 175: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.004Z [error]: ⚠️ Error in tx inside block 176: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.184Z [error]: ⚠️ Error in tx inside block 177: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.356Z [error]: ⚠️ Error in tx inside block 178: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.558Z [error]: ⚠️ Error in tx inside block 179: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.744Z [error]: ⚠️ Error in tx inside block 180: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:47.936Z [error]: ⚠️ Error in tx inside block 181: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:48.137Z [error]: ⚠️ Error in tx inside block 182: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:48.425Z [error]: ⚠️ Error in tx inside block 183: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:48.667Z [error]: ⚠️ Error in tx inside block 184: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:48.856Z [error]: ⚠️ Error in tx inside block 185: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:49.058Z [error]: ⚠️ Error in tx inside block 186: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:49.250Z [error]: ⚠️ Error in tx inside block 187: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:49.506Z [error]: ⚠️ Error in tx inside block 188: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:49.695Z [error]: ⚠️ Error in tx inside block 189: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:49.875Z [error]: ⚠️ Error in tx inside block 190: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:50.074Z [error]: ⚠️ Error in tx inside block 191: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:50.266Z [error]: ⚠️ Error in tx inside block 192: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:50.468Z [error]: ⚠️ Error in tx inside block 193: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:50.662Z [error]: ⚠️ Error in tx inside block 194: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:50.844Z [error]: ⚠️ Error in tx inside block 195: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:51.047Z [error]: ⚠️ Error in tx inside block 196: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:51.249Z [error]: ⚠️ Error in tx inside block 197: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:51.447Z [error]: ⚠️ Error in tx inside block 198: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:51.628Z [error]: ⚠️ Error in tx inside block 199: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:51.818Z [error]: ⚠️ Error in tx inside block 200: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:52.018Z [error]: ⚠️ Error in tx inside block 201: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:52.216Z [error]: ⚠️ Error in tx inside block 202: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:52.433Z [error]: ⚠️ Error in tx inside block 203: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:52.628Z [error]: ⚠️ Error in tx inside block 204: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:52.814Z [error]: ⚠️ Error in tx inside block 205: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.018Z [error]: ⚠️ Error in tx inside block 206: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.225Z [error]: ⚠️ Error in tx inside block 207: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.417Z [error]: ⚠️ Error in tx inside block 208: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.607Z [error]: ⚠️ Error in tx inside block 209: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.805Z [error]: ⚠️ Error in tx inside block 210: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:53.987Z [error]: ⚠️ Error in tx inside block 211: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:54.186Z [error]: ⚠️ Error in tx inside block 212: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:54.366Z [error]: ⚠️ Error in tx inside block 213: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:54.560Z [error]: ⚠️ Error in tx inside block 214: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:54.747Z [error]: ⚠️ Error in tx inside block 215: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:54.936Z [error]: ⚠️ Error in tx inside block 216: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:55.134Z [error]: ⚠️ Error in tx inside block 217: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:55.311Z [error]: ⚠️ Error in tx inside block 218: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:55.541Z [error]: ⚠️ Error in tx inside block 219: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:55.727Z [error]: ⚠️ Error in tx inside block 220: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:55.945Z [error]: ⚠️ Error in tx inside block 221: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:56.145Z [error]: ⚠️ Error in tx inside block 222: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:56.344Z [error]: ⚠️ Error in tx inside block 223: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:56.546Z [error]: ⚠️ Error in tx inside block 224: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:56.746Z [error]: ⚠️ Error in tx inside block 225: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:56.945Z [error]: ⚠️ Error in tx inside block 226: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:57.146Z [error]: ⚠️ Error in tx inside block 227: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:57.349Z [error]: ⚠️ Error in tx inside block 228: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:57.551Z [error]: ⚠️ Error in tx inside block 229: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:57.746Z [error]: ⚠️ Error in tx inside block 230: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:57.947Z [error]: ⚠️ Error in tx inside block 231: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:58.146Z [error]: ⚠️ Error in tx inside block 232: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:58.354Z [error]: ⚠️ Error in tx inside block 233: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:58.546Z [error]: ⚠️ Error in tx inside block 234: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:58.753Z [error]: ⚠️ Error in tx inside block 235: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:58.944Z [error]: ⚠️ Error in tx inside block 236: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:59.147Z [error]: ⚠️ Error in tx inside block 237: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:59.342Z [error]: ⚠️ Error in tx inside block 238: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:59.551Z [error]: ⚠️ Error in tx inside block 239: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:59.743Z [error]: ⚠️ Error in tx inside block 240: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:00:59.942Z [error]: ⚠️ Error in tx inside block 241: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:00.151Z [error]: ⚠️ Error in tx inside block 242: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:00.347Z [error]: ⚠️ Error in tx inside block 243: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:00.546Z [error]: ⚠️ Error in tx inside block 244: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:00.756Z [error]: ⚠️ Error in tx inside block 245: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:00.949Z [error]: ⚠️ Error in tx inside block 246: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:01.148Z [error]: ⚠️ Error in tx inside block 247: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:01.348Z [error]: ⚠️ Error in tx inside block 248: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:01.546Z [error]: ⚠️ Error in tx inside block 249: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:01.745Z [error]: ⚠️ Error in tx inside block 250: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:01.946Z [error]: ⚠️ Error in tx inside block 251: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:02.146Z [error]: ⚠️ Error in tx inside block 252: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:02.346Z [error]: ⚠️ Error in tx inside block 253: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:02.543Z [error]: ⚠️ Error in tx inside block 254: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:02.743Z [error]: ⚠️ Error in tx inside block 255: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:02.945Z [error]: ⚠️ Error in tx inside block 256: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:03.147Z [error]: ⚠️ Error in tx inside block 257: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:03.359Z [error]: ⚠️ Error in tx inside block 258: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:03.546Z [error]: ⚠️ Error in tx inside block 259: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:03.746Z [error]: ⚠️ Error in tx inside block 260: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:03.962Z [error]: ⚠️ Error in tx inside block 261: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:04.166Z [error]: ⚠️ Error in tx inside block 262: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:04.345Z [error]: ⚠️ Error in tx inside block 263: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:04.546Z [error]: ⚠️ Error in tx inside block 264: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:04.746Z [error]: ⚠️ Error in tx inside block 265: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:04.945Z [error]: ⚠️ Error in tx inside block 266: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:05.146Z [error]: ⚠️ Error in tx inside block 267: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:05.354Z [error]: ⚠️ Error in tx inside block 268: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:05.567Z [error]: ⚠️ Error in tx inside block 269: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:05.756Z [error]: ⚠️ Error in tx inside block 270: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:05.959Z [error]: ⚠️ Error in tx inside block 271: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:06.155Z [error]: ⚠️ Error in tx inside block 272: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:06.339Z [error]: ⚠️ Error in tx inside block 273: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:06.550Z [error]: ⚠️ Error in tx inside block 274: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:06.725Z [error]: ⚠️ Error in tx inside block 275: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:06.911Z [error]: ⚠️ Error in tx inside block 276: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:07.157Z [error]: ⚠️ Error in tx inside block 277: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:07.471Z [error]: ⚠️ Error in tx inside block 278: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:07.685Z [error]: ⚠️ Error in tx inside block 279: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:07.855Z [error]: ⚠️ Error in tx inside block 280: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.037Z [error]: ⚠️ Error in tx inside block 281: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.226Z [error]: ⚠️ Error in tx inside block 282: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.415Z [error]: ⚠️ Error in tx inside block 283: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.594Z [error]: ⚠️ Error in tx inside block 284: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.796Z [error]: ⚠️ Error in tx inside block 285: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:08.985Z [error]: ⚠️ Error in tx inside block 286: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:09.160Z [error]: ⚠️ Error in tx inside block 287: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:09.345Z [error]: ⚠️ Error in tx inside block 288: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:09.540Z [error]: ⚠️ Error in tx inside block 289: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:09.727Z [error]: ⚠️ Error in tx inside block 290: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:09.938Z [error]: ⚠️ Error in tx inside block 291: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:10.152Z [error]: ⚠️ Error in tx inside block 292: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:10.363Z [error]: ⚠️ Error in tx inside block 293: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:10.554Z [error]: ⚠️ Error in tx inside block 294: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:10.735Z [error]: ⚠️ Error in tx inside block 295: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:10.936Z [error]: ⚠️ Error in tx inside block 296: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:11.149Z [error]: ⚠️ Error in tx inside block 297: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:11.335Z [error]: ⚠️ Error in tx inside block 298: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:11.535Z [error]: ⚠️ Error in tx inside block 299: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:11.738Z [error]: ⚠️ Error in tx inside block 300: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:11.944Z [error]: ⚠️ Error in tx inside block 301: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:12.137Z [error]: ⚠️ Error in tx inside block 302: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:12.335Z [error]: ⚠️ Error in tx inside block 303: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:12.535Z [error]: ⚠️ Error in tx inside block 304: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:12.737Z [error]: ⚠️ Error in tx inside block 305: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:12.935Z [error]: ⚠️ Error in tx inside block 306: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:13.145Z [error]: ⚠️ Error in tx inside block 307: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:13.337Z [error]: ⚠️ Error in tx inside block 308: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:13.537Z [error]: ⚠️ Error in tx inside block 309: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:13.737Z [error]: ⚠️ Error in tx inside block 310: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:13.941Z [error]: ⚠️ Error in tx inside block 311: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:14.238Z [error]: ⚠️ Error in tx inside block 312: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:14.437Z [error]: ⚠️ Error in tx inside block 313: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:14.637Z [error]: ⚠️ Error in tx inside block 314: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:14.837Z [error]: ⚠️ Error in tx inside block 315: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:15.035Z [error]: ⚠️ Error in tx inside block 316: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:15.238Z [error]: ⚠️ Error in tx inside block 317: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:15.436Z [error]: ⚠️ Error in tx inside block 318: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:15.635Z [error]: ⚠️ Error in tx inside block 319: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:15.836Z [error]: ⚠️ Error in tx inside block 320: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:16.036Z [error]: ⚠️ Error in tx inside block 321: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:16.245Z [error]: ⚠️ Error in tx inside block 322: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:16.436Z [error]: ⚠️ Error in tx inside block 323: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:16.635Z [error]: ⚠️ Error in tx inside block 324: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:16.835Z [error]: ⚠️ Error in tx inside block 325: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:17.038Z [error]: ⚠️ Error in tx inside block 326: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:17.237Z [error]: ⚠️ Error in tx inside block 327: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:17.444Z [error]: ⚠️ Error in tx inside block 328: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:17.636Z [error]: ⚠️ Error in tx inside block 329: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:17.838Z [error]: ⚠️ Error in tx inside block 330: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:18.037Z [error]: ⚠️ Error in tx inside block 331: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:18.237Z [error]: ⚠️ Error in tx inside block 332: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:18.438Z [error]: ⚠️ Error in tx inside block 333: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:18.638Z [error]: ⚠️ Error in tx inside block 334: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:18.838Z [error]: ⚠️ Error in tx inside block 335: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:19.048Z [error]: ⚠️ Error in tx inside block 336: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:19.235Z [error]: ⚠️ Error in tx inside block 337: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:19.437Z [error]: ⚠️ Error in tx inside block 338: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:19.643Z [error]: ⚠️ Error in tx inside block 339: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:19.825Z [error]: ⚠️ Error in tx inside block 340: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:20.043Z [error]: ⚠️ Error in tx inside block 341: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:20.233Z [error]: ⚠️ Error in tx inside block 342: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:20.448Z [error]: ⚠️ Error in tx inside block 343: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:20.632Z [error]: ⚠️ Error in tx inside block 344: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:20.807Z [error]: ⚠️ Error in tx inside block 345: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.005Z [error]: ⚠️ Error in tx inside block 346: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.206Z [error]: ⚠️ Error in tx inside block 347: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.395Z [error]: ⚠️ Error in tx inside block 348: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.607Z [error]: ⚠️ Error in tx inside block 349: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.792Z [error]: ⚠️ Error in tx inside block 350: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:21.985Z [error]: ⚠️ Error in tx inside block 351: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:22.166Z [error]: ⚠️ Error in tx inside block 352: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:22.355Z [error]: ⚠️ Error in tx inside block 353: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:22.534Z [error]: ⚠️ Error in tx inside block 354: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:22.737Z [error]: ⚠️ Error in tx inside block 355: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:22.965Z [error]: ⚠️ Error in tx inside block 356: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:23.186Z [error]: ⚠️ Error in tx inside block 357: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:23.417Z [error]: ⚠️ Error in tx inside block 358: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:23.576Z [error]: ⚠️ Error in tx inside block 359: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:23.764Z [error]: ⚠️ Error in tx inside block 360: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:23.945Z [error]: ⚠️ Error in tx inside block 361: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:24.134Z [error]: ⚠️ Error in tx inside block 362: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:24.334Z [error]: ⚠️ Error in tx inside block 363: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:24.608Z [error]: ⚠️ Error in tx inside block 364: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:24.830Z [error]: ⚠️ Error in tx inside block 365: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:25.073Z [error]: ⚠️ Error in tx inside block 366: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:25.247Z [error]: ⚠️ Error in tx inside block 367: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:25.438Z [error]: ⚠️ Error in tx inside block 368: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:25.637Z [error]: ⚠️ Error in tx inside block 369: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:25.836Z [error]: ⚠️ Error in tx inside block 370: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.026Z [error]: ⚠️ Error in tx inside block 371: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.235Z [error]: ⚠️ Error in tx inside block 372: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.415Z [error]: ⚠️ Error in tx inside block 373: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.607Z [error]: ⚠️ Error in tx inside block 374: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.787Z [error]: ⚠️ Error in tx inside block 375: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:26.976Z [error]: ⚠️ Error in tx inside block 376: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:27.174Z [error]: ⚠️ Error in tx inside block 377: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:27.360Z [error]: ⚠️ Error in tx inside block 378: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:27.554Z [error]: ⚠️ Error in tx inside block 379: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:27.743Z [error]: ⚠️ Error in tx inside block 380: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:27.926Z [error]: ⚠️ Error in tx inside block 381: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:28.125Z [error]: ⚠️ Error in tx inside block 382: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:28.306Z [error]: ⚠️ Error in tx inside block 383: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:28.505Z [error]: ⚠️ Error in tx inside block 384: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:28.703Z [error]: ⚠️ Error in tx inside block 385: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:28.942Z [error]: ⚠️ Error in tx inside block 386: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:29.166Z [error]: ⚠️ Error in tx inside block 387: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:29.414Z [error]: ⚠️ Error in tx inside block 388: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:29.606Z [error]: ⚠️ Error in tx inside block 389: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:29.786Z [error]: ⚠️ Error in tx inside block 390: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:30.043Z [error]: ⚠️ Error in tx inside block 391: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:30.234Z [error]: ⚠️ Error in tx inside block 392: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:30.440Z [error]: ⚠️ Error in tx inside block 393: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:30.653Z [error]: ⚠️ Error in tx inside block 394: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:30.840Z [error]: ⚠️ Error in tx inside block 395: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:31.053Z [error]: ⚠️ Error in tx inside block 396: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:31.240Z [error]: ⚠️ Error in tx inside block 397: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:31.440Z [error]: ⚠️ Error in tx inside block 398: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:31.640Z [error]: ⚠️ Error in tx inside block 399: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:31.841Z [error]: ⚠️ Error in tx inside block 400: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:32.039Z [error]: ⚠️ Error in tx inside block 401: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:32.238Z [error]: ⚠️ Error in tx inside block 402: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:32.438Z [error]: ⚠️ Error in tx inside block 403: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:32.638Z [error]: ⚠️ Error in tx inside block 404: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:32.844Z [error]: ⚠️ Error in tx inside block 405: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:33.055Z [error]: ⚠️ Error in tx inside block 406: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:33.255Z [error]: ⚠️ Error in tx inside block 407: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:33.437Z [error]: ⚠️ Error in tx inside block 408: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:33.645Z [error]: ⚠️ Error in tx inside block 409: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:33.838Z [error]: ⚠️ Error in tx inside block 410: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:34.041Z [error]: ⚠️ Error in tx inside block 411: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:34.240Z [error]: ⚠️ Error in tx inside block 412: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:34.444Z [error]: ⚠️ Error in tx inside block 413: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:34.654Z [error]: ⚠️ Error in tx inside block 414: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:34.852Z [error]: ⚠️ Error in tx inside block 415: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:35.060Z [error]: ⚠️ Error in tx inside block 416: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:35.254Z [error]: ⚠️ Error in tx inside block 417: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:35.445Z [error]: ⚠️ Error in tx inside block 418: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:35.645Z [error]: ⚠️ Error in tx inside block 419: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:35.846Z [error]: ⚠️ Error in tx inside block 420: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:36.046Z [error]: ⚠️ Error in tx inside block 421: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:36.240Z [error]: ⚠️ Error in tx inside block 422: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:36.453Z [error]: ⚠️ Error in tx inside block 423: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:36.647Z [error]: ⚠️ Error in tx inside block 424: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:36.848Z [error]: ⚠️ Error in tx inside block 425: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:37.039Z [error]: ⚠️ Error in tx inside block 426: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:37.245Z [error]: ⚠️ Error in tx inside block 427: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:37.445Z [error]: ⚠️ Error in tx inside block 428: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:37.638Z [error]: ⚠️ Error in tx inside block 429: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:37.846Z [error]: ⚠️ Error in tx inside block 430: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:38.043Z [error]: ⚠️ Error in tx inside block 431: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:38.253Z [error]: ⚠️ Error in tx inside block 432: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:38.446Z [error]: ⚠️ Error in tx inside block 433: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:38.648Z [error]: ⚠️ Error in tx inside block 434: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:38.844Z [error]: ⚠️ Error in tx inside block 435: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:39.044Z [error]: ⚠️ Error in tx inside block 436: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:39.240Z [error]: ⚠️ Error in tx inside block 437: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:39.444Z [error]: ⚠️ Error in tx inside block 438: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:39.640Z [error]: ⚠️ Error in tx inside block 439: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:39.835Z [error]: ⚠️ Error in tx inside block 440: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.046Z [error]: ⚠️ Error in tx inside block 441: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.238Z [error]: ⚠️ Error in tx inside block 442: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.423Z [error]: ⚠️ Error in tx inside block 443: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.604Z [error]: ⚠️ Error in tx inside block 444: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.796Z [error]: ⚠️ Error in tx inside block 445: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:40.976Z [error]: ⚠️ Error in tx inside block 446: invalid BigNumberish value (argument="value", value=null, code=INVALID_ARGUMENT, version=6.15.0)
+2025-10-22T20:01:50.373Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:00.449Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:10.442Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:20.426Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:30.539Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:40.455Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:02:50.487Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:03:00.702Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:03:10.540Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:03:23.099Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:03:30.222Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:06.655Z [error]: ❌ Error processing block 403: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:06.752Z [error]: ❌ Error processing block 404: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:06.849Z [error]: ❌ Error processing block 405: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:06.949Z [error]: ❌ Error processing block 406: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:07.049Z [error]: ❌ Error processing block 407: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:07.149Z [error]: ❌ Error processing block 408: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:08.728Z [error]: ❌ Error processing block 411: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xab6fe0d9e05d8a2185e49f7479371288e9274763cb5ee12581dfdfeb5cc50dc0" }
+2025-10-22T20:08:09.250Z [error]: ❌ Error processing block 412: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xcaaa95674f6993612ceaf76c82b7bd2e50e661297e7c377087fa062a69e97b8c" }
+2025-10-22T20:08:09.760Z [error]: ❌ Error processing block 413: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x30e2c47e561097c64ef63cd48eb91349587f2db692214fe922b962f8f0377676" }
+2025-10-22T20:08:10.045Z [error]: ❌ Error processing block 414: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x1716cc25f96c419ccfd9add78f403317b9fee8846a863997ccc4fe97731941bc" }
+2025-10-22T20:08:10.309Z [error]: ❌ Error processing block 415: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x8dfbdd19f684ceebb3d2ee5dde262a522721e5996c201b6c3aa15beea4b44d58" }
+2025-10-22T20:08:10.587Z [error]: ❌ Error processing block 416: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x65b101a71a7227dfd8f62aca6d378b6adfe46bbb657671937377fb2cd1fa2de1" }
+2025-10-22T20:08:10.865Z [error]: ❌ Error processing block 417: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xe82642f7b8512781f850aa99604ea24719edf8e570b98300e9c5a8c9bc956277" }
+2025-10-22T20:08:11.384Z [error]: ❌ Error processing block 418: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x406a867af802eee8a8cbbe7a9d8e0cc887a4541e026925810942468529f59757" }
+2025-10-22T20:08:11.778Z [error]: ❌ Error processing block 419: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x19012a4e5b6be359c1278fe0562d4dd500a13220863ea76f2b132b0d2d9da030" }
+2025-10-22T20:08:12.345Z [error]: ❌ Error processing block 420: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x9494603feeec51ac48ab5053e52802384481b82d843b04e25791c9ce3cfef637" }
+2025-10-22T20:08:13.046Z [error]: ❌ Error processing block 421: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x9886f148bbb89eb23d0952cb348d508c6633fb954f0272af3d18f51b01b8d883" }
+2025-10-22T20:08:13.345Z [error]: ❌ Error processing block 422: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x5145b1e12e46cc4d35f10e0758cd2cadd06fdb571a03810d5d532903d10dfae4" }
+2025-10-22T20:08:13.650Z [error]: ❌ Error processing block 423: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x28b72289cc3a4a54507ad4a61ee1b650ab406fdaabf6ba30cec2a498990fb620" }
+2025-10-22T20:08:14.243Z [error]: ❌ Error processing block 424: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x0aa09139f5382d3425402e34da41918e94c587f839a44c6c37bfc0d44c6037c4" }
+2025-10-22T20:08:14.843Z [error]: ❌ Error processing block 425: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x0bdcd53040068c0742ddf4b5a4dfd59b63d289beca4bc44f216d6d8c942d976d" }
+2025-10-22T20:08:15.143Z [error]: ❌ Error processing block 426: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xb7f0e42ea30d29e1e26c6ba103d23e058af570113eb02b15bb83e39908fcb394" }
+2025-10-22T20:08:15.749Z [error]: ❌ Error processing block 427: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xdb2408428e27eee18b3c169f4af9f3d5507a3b600822bb18fc78f26127ad6ec2" }
+2025-10-22T20:08:16.045Z [error]: ❌ Error processing block 428: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x8ad84552f4cc1df6e9aa36e951c538b5c317fd14a0b00680db8c286aaad1f2c5" }
+2025-10-22T20:08:16.345Z [error]: ❌ Error processing block 429: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x497086db55e1f1c7320d9446c54a92de57696af1c3b31ae99c0f498675f99191" }
+2025-10-22T20:08:16.945Z [error]: ❌ Error processing block 430: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x7a8bf6bc458b182e3cbb95670bc7a0db56bb836483a4849bdd8d140b3da0c7c9" }
+2025-10-22T20:08:17.546Z [error]: ❌ Error processing block 431: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xd88e6221020752c2a5af4121d1071762f7fb5a07977116d02a902eba79e26b65" }
+2025-10-22T20:08:18.143Z [error]: ❌ Error processing block 432: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x66f68483e010c63b6ef3c0028d5af4681b2b2a3e9383d61adebff882df6e1663" }
+2025-10-22T20:08:18.443Z [error]: ❌ Error processing block 433: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x41f80218d287af64a54af8ae5b35d46ca375e9e40ec9bd647a41119721280036" }
+2025-10-22T20:08:18.744Z [error]: ❌ Error processing block 434: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x7507994c54d222767cb372e1f62cdb5ad7009b939ae6e4e7be28c440e25477c4" }
+2025-10-22T20:08:19.043Z [error]: ❌ Error processing block 435: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x1367776513e0764c14d17ebd21a4d7076ac1ead89f9cd459d37ddb6ddffc0e71" }
+2025-10-22T20:08:19.343Z [error]: ❌ Error processing block 436: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x9f28fbd7976b9dda6c349fa5d20e9a82f5e3fec23633268c55f7601384ca8fcd" }
+2025-10-22T20:08:19.642Z [error]: ❌ Error processing block 437: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x2ec151b7825fcdc46d78325900ac8190fb520a771fc197c94657c50f8e9e7647" }
+2025-10-22T20:08:19.945Z [error]: ❌ Error processing block 438: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x956378904564e546185b02fa6ee9417b97216746ff0405045877034d036c41fb" }
+2025-10-22T20:08:20.251Z [error]: ❌ Error processing block 439: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xcc71116eb8c49bc5743ec23dd64bf70b174f44e51a0bb88a374847208eec90f4" }
+2025-10-22T20:08:20.545Z [error]: ❌ Error processing block 440: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xcdb5bf65299316f29baf61c3e28ff1c48e140ef8bccace9d991c735e7fb071c1" }
+2025-10-22T20:08:20.845Z [error]: ❌ Error processing block 441: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xbc24332c6df1dd393a305e8d3f0645d8f0c3a0b0ffc91dd8f705bf90ace3e9e6" }
+2025-10-22T20:08:21.145Z [error]: ❌ Error processing block 442: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x59b3db3bc93742e99fa0324eef2df2c64b921eccdd68e442a2916d0f193834ab" }
+2025-10-22T20:08:21.447Z [error]: ❌ Error processing block 443: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xd8e83918e2469a2549ad9e6a9fcb5efd547483ecf0b7ca889f3d5a62fcf073c4" }
+2025-10-22T20:08:21.755Z [error]: ❌ Error processing block 444: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x738f710b7e2457ca625096af2ca681f80448ae9a742c4bdcc78aad1ba5d79893" }
+2025-10-22T20:08:22.026Z [error]: ❌ Error processing block 445: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xd9f8767ba5b21f17df8d39361000fe9ba7cc175f10f35c8366393463bd530a8f" }
+2025-10-22T20:08:22.304Z [error]: ❌ Error processing block 446: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xf56b099517acc86bc193f6bf3c487c20eb021a41bb3a6d8dc0d6d235c2d27a1f" }
+2025-10-22T20:08:40.651Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:08:50.690Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:00.861Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:10.727Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:20.748Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:30.768Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:40.776Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:09:50.863Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:00.868Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:10.852Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:20.849Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:30.874Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:40.868Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:10:51.003Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:11:01.061Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:11:11.000Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:12:31.145Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:12:41.157Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:12:51.170Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:01.262Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:11.681Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:22.896Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:29.423Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:30.517Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:40.774Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:46.196Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:13:50.661Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:14:00.903Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:14:10.812Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:20:52.978Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:21:01.100Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)
+2025-10-22T20:21:10.100Z [error]: ❌ Indexer job failed: server response 502 Bad Gateway (request={  }, response={  }, error=null, info={ "requestUrl": "https://rpc.cbmscan.com", "responseBody": "<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", "responseStatus": "502 Bad Gateway" }, code=SERVER_ERROR, version=6.15.0)

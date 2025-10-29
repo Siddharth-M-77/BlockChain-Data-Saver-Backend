@@ -2,6 +2,7 @@ import Transaction from "../models/Transaction.model.js";
 import axios from "axios";
 import BlockMeta from "../models/BlockMeta.js";
 import UserHolding from "../models/UserHolding.js";
+import { ethers } from "ethers";
 export const smartTransactionSearch = async (req, res) => {
   try {
     const { input } = req.params;
@@ -327,5 +328,229 @@ export const getAllRbmHolders = async (req, res) => {
       success: false,
       message: error.message,
     });
+  }
+};
+
+import BigNumber from "bignumber.js";
+
+const fromHexToCbm = (hex) => {
+  try {
+    const value = new BigNumber(hex);
+    return value.dividedBy(new BigNumber(10).pow(18)).toNumber();
+  } catch (err) {
+    return 0;
+  }
+};
+
+export const getCbmHolders = async (req, res) => {
+  try {
+    const txs = await Transaction.find({ type: "native" }).lean();
+
+    if (!txs.length) {
+      return res.json({ success: true, holders: [], totalSupply: 0 });
+    }
+
+    const balances = new Map();
+
+    for (const tx of txs) {
+      const from = tx.from?.toLowerCase();
+      const to = tx.to?.toLowerCase();
+      const valueCbm = fromHexToCbm(tx.value);
+
+      if (from) {
+        const prev = balances.get(from) || 0;
+        balances.set(from, prev - valueCbm);
+      }
+
+      if (to) {
+        const prev = balances.get(to) || 0;
+        balances.set(to, prev + valueCbm);
+      }
+    }
+
+    const holders = [];
+    let totalSupply = 0;
+
+    for (const [address, balance] of balances.entries()) {
+      if (balance > 0) {
+        holders.push({ address, balance });
+        totalSupply += balance;
+      }
+    }
+
+    holders.sort((a, b) => b.balance - a.balance);
+
+    res.json({
+      success: true,
+      totalHolders: holders.length,
+      totalSupply: parseFloat(totalSupply.toFixed(6)),
+      holders: holders.map((h) => ({
+        address: h.address,
+        balance: parseFloat(h.balance.toFixed(6)),
+      })),
+    });
+  } catch (error) {
+    console.error("❌ getCbmHolders error:", error);
+    res.status(500).json({ success: false, message: error.message });
+  }
+};
+
+const ERC20_ABI = [
+  "function name() view returns (string)",
+  "function symbol() view returns (string)",
+  "function decimals() view returns (uint8)",
+  "function totalSupply() view returns (uint256)",
+  "function balanceOf(address) view returns (uint256)",
+];
+
+const provider = new ethers.JsonRpcProvider("https://rpc.cbmscan.com/");
+
+// 🧹 Helper to remove all BigInts from any nested object
+function sanitizeBigInts(obj) {
+  return JSON.parse(
+    JSON.stringify(obj, (_, v) => (typeof v === "bigint" ? v.toString() : v))
+  );
+}
+
+export const getTokenDetails = async (req, res) => {
+  try {
+    const { tokenAddress } = req.params;
+    if (!ethers.isAddress(tokenAddress)) {
+      return res
+        .status(400)
+        .json({ success: false, message: "Invalid token address" });
+    }
+
+    const tokenContract = new ethers.Contract(
+      tokenAddress,
+      ERC20_ABI,
+      provider
+    );
+
+    const [name, symbol, decimals, totalSupplyRaw] = await Promise.all([
+      tokenContract.name().catch(() => "Unknown"),
+      tokenContract.symbol().catch(() => "???"),
+      tokenContract.decimals().catch(() => 18),
+      tokenContract.totalSupply().catch(() => 0n),
+    ]);
+
+    // ✅ Convert BigInt safely to number
+    const totalSupply = parseFloat(
+      ethers.formatUnits(totalSupplyRaw, decimals)
+    );
+
+    // ✅ Fetch transactions
+    const txs = await Transaction.find({
+      "tokenTransfers.tokenAddress": tokenAddress.toLowerCase(),
+    }).lean();
+
+    const holders = new Set();
+    txs.forEach((tx) => {
+      tx.tokenTransfers?.forEach((t) => {
+        if (t.tokenAddress.toLowerCase() === tokenAddress.toLowerCase()) {
+          if (t.to) holders.add(t.to.toLowerCase());
+          if (t.from) holders.add(t.from.toLowerCase());
+        }
+      });
+    });
+
+    // ✅ Create token data
+    const tokenData = {
+      address: tokenAddress,
+      name,
+      symbol,
+      decimals,
+      totalSupply: parseFloat(totalSupply.toFixed(6)),
+      holdersCount: holders.size,
+    };
+
+    // ✅ Sanitize before sending (no BigInt issue possible now)
+    return res.json(sanitizeBigInts({ success: true, token: tokenData }));
+  } catch (err) {
+    console.error("getTokenDetails error:", err);
+    res.status(500).json({ success: false, message: err.message });
+  }
+};
+// ✅ Get Token Holders
+export const getTokenHolders = async (req, res) => {
+  try {
+    const { tokenAddress } = req.params;
+
+    const txs = await Transaction.find({
+      "tokenTransfers.tokenAddress": tokenAddress.toLowerCase(),
+    }).lean();
+
+    const balances = new Map();
+
+    for (const tx of txs) {
+      for (const t of tx.tokenTransfers || []) {
+        if (t.tokenAddress.toLowerCase() !== tokenAddress.toLowerCase())
+          continue;
+
+        const value = parseFloat(t.value);
+        const from = t.from?.toLowerCase();
+        const to = t.to?.toLowerCase();
+
+        if (from) balances.set(from, (balances.get(from) || 0) - value);
+        if (to) balances.set(to, (balances.get(to) || 0) + value);
+      }
+    }
+
+    const holders = [];
+    let totalSupply = 0;
+
+    for (const [addr, bal] of balances.entries()) {
+      if (bal > 0) {
+        holders.push({ address: addr, balance: parseFloat(bal.toFixed(6)) });
+        totalSupply += bal;
+      }
+    }
+
+    holders.sort((a, b) => b.balance - a.balance);
+
+    res.json({
+      success: true,
+      holders,
+      totalSupply: parseFloat(totalSupply.toFixed(6)),
+      holdersCount: holders.length,
+    });
+  } catch (err) {
+    console.error("getTokenHolders error:", err);
+    res.status(500).json({ success: false, message: err.message });
+  }
+};
+
+// ✅ Get Token Transfers
+export const getTokenTransfers = async (req, res) => {
+  try {
+    const { tokenAddress } = req.params;
+
+    const txs = await Transaction.find({
+      "tokenTransfers.tokenAddress": tokenAddress.toLowerCase(),
+    })
+      .sort({ timeStamp: -1 })
+      .limit(50)
+      .lean();
+
+    const transfers = [];
+
+    for (const tx of txs) {
+      for (const t of tx.tokenTransfers || []) {
+        if (t.tokenAddress.toLowerCase() === tokenAddress.toLowerCase()) {
+          transfers.push({
+            hash: tx.hash,
+            from: t.from,
+            to: t.to,
+            value: parseFloat(t.value),
+            timeStamp: tx.timeStamp,
+          });
+        }
+      }
+    }
+
+    res.json({ success: true, transfers });
+  } catch (err) {
+    console.error("getTokenTransfers error:", err);
+    res.status(500).json({ success: false, message: err.message });
   }
 };

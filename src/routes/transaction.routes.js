@@ -7,9 +7,13 @@ import {
   smartTransactionSearch,
   getAllBlocks,
   getAllRbmHolders,
+  getTokenDetails,
+  getTokenHolders,
+  getTokenTransfers,
 } from "../../src/controller/transaction.controller.js";
 import { getTopAccounts } from "../controller/accountController.js";
 import { sendCBM } from "../utils/sendCBM.js";
+import { getCbmHolders } from "../controller/transaction.controller.js";
 
 const router = express.Router();
 
@@ -22,6 +26,10 @@ router.get("/total-transactions", getAllTRansactionCount);
 router.get("/get-validators", getValidators);
 router.get("/get-top-accounts", getTopAccounts);
 router.get("/get-rbm-holders", getAllRbmHolders);
+router.get("/get-cbm-holders", getCbmHolders);
+router.get("/:tokenAddress", getTokenDetails);
+router.get("/:tokenAddress/holders", getTokenHolders);
+router.get("/:tokenAddress/transfers", getTokenTransfers);
 router.post("/buy", sendCBM);
 
 export default router;

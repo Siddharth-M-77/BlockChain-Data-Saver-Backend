@@ -343,10 +343,45 @@ async function saveBlockMeta(block) {
 }
 
 // ✅ Token info cache
+// async function getTokenInfo(tokenAddress) {
+//   const addr = tokenAddress.toLowerCase();
+//   const existing = await TokenRegistry.findOne({ address: addr });
+//   if (existing) return existing;
+
+//   const abi = [
+//     "function name() view returns (string)",
+//     "function symbol() view returns (string)",
+//     "function decimals() view returns (uint8)",
+//   ];
+
+//   try {
+//     const contract = new ethers.Contract(addr, abi, provider);
+//     let [name, symbol, decimals] = await Promise.all([
+//       contract.name(),
+//       contract.symbol(),
+//       contract.decimals(),
+//     ]);
+
+//     decimals = Number(decimals);
+
+//     const newToken = await TokenRegistry.create({
+//       address: addr,
+//       name,
+//       symbol,
+//       decimals,
+//     });
+
+//     logger.info(`💎 New token detected: ${symbol} (${addr})`);
+//     return newToken;
+//   } catch (err) {
+//     logger.warn(`⚠️ Failed to fetch token info for ${addr}: ${err.message}`);
+//     return { address: addr, name: "Unknown", symbol: "UNK", decimals: 18 };
+//   }
+// }
+
 async function getTokenInfo(tokenAddress) {
   const addr = tokenAddress.toLowerCase();
   const existing = await TokenRegistry.findOne({ address: addr });
-  if (existing) return existing;
 
   const abi = [
     "function name() view returns (string)",
@@ -357,25 +392,35 @@ async function getTokenInfo(tokenAddress) {
   try {
     const contract = new ethers.Contract(addr, abi, provider);
     let [name, symbol, decimals] = await Promise.all([
-      contract.name(),
-      contract.symbol(),
-      contract.decimals(),
+      contract.name().catch(() => existing?.name || "Unknown"),
+      contract.symbol().catch(() => existing?.symbol || "UNK"),
+      contract.decimals().catch(() => existing?.decimals || 18),
     ]);
 
     decimals = Number(decimals);
 
-    const newToken = await TokenRegistry.create({
-      address: addr,
-      name,
-      symbol,
-      decimals,
-    });
+    if (!existing || existing.symbol !== symbol || existing.name !== name) {
+      const updated = await TokenRegistry.findOneAndUpdate(
+        { address: addr },
+        { name, symbol, decimals },
+        { new: true, upsert: true }
+      );
+      logger.info(`🔁 Token info updated: ${symbol} (${addr})`);
+      return updated;
+    }
 
-    logger.info(`💎 New token detected: ${symbol} (${addr})`);
-    return newToken;
+    // ✅ Return cached if correct
+    return existing;
   } catch (err) {
     logger.warn(`⚠️ Failed to fetch token info for ${addr}: ${err.message}`);
-    return { address: addr, name: "Unknown", symbol: "UNK", decimals: 18 };
+    return (
+      existing || {
+        address: addr,
+        name: "Unknown",
+        symbol: "UNK",
+        decimals: 18,
+      }
+    );
   }
 }
 
@@ -468,7 +513,8 @@ async function processBlocks(start, end) {
             type: "native",
           };
 
-          await updateBalances(tx.from, tx.to, safeValue);
+          // await updateBalances(tx.from, tx.to, safeValue);
+          await updateBalances(tx);
 
           const receipt = await provider.getTransactionReceipt(tx.hash);
           if (!receipt) continue;

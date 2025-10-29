@@ -6,6 +6,7 @@ const HoldingSchema = new mongoose.Schema({
   tokenSymbol: String,
   tokenName: String,
   balance: { type: Number, default: 0 },
+  isNative: { type: Boolean, default: false },
 });
 
 const UserHolding = mongoose.model("UserHolding", HoldingSchema);

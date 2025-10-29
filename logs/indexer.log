@@ -7623,3 +7623,1801 @@
 2025-10-29T08:00:10.791Z [info]: ⏰ Cron triggered
 2025-10-29T08:00:11.041Z [info]: 🟢 No new blocks to index
 2025-10-29T08:00:14.959Z [info]: 🛑 Indexer stopped
+2025-10-29T08:00:50.282Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T08:00:51.035Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:00.058Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:00.289Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:10.074Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:10.300Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:20.091Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:20.543Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:30.105Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:30.329Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:40.119Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:40.376Z [info]: 🟢 No new blocks to index
+2025-10-29T08:01:50.147Z [info]: ⏰ Cron triggered
+2025-10-29T08:01:50.507Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:00.199Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:00.559Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:10.215Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:10.716Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:20.237Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:20.494Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:30.249Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:30.497Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:40.273Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:40.572Z [info]: 🟢 No new blocks to index
+2025-10-29T08:02:50.288Z [info]: ⏰ Cron triggered
+2025-10-29T08:02:50.483Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:00.302Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:00.575Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:10.326Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:10.538Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:20.400Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:20.618Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:30.411Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:30.631Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:40.425Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:40.642Z [info]: 🟢 No new blocks to index
+2025-10-29T08:03:50.439Z [info]: ⏰ Cron triggered
+2025-10-29T08:03:50.747Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:00.457Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:00.662Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:10.472Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:10.670Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:20.485Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:20.697Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:30.501Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:30.742Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:40.527Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:40.767Z [info]: 🟢 No new blocks to index
+2025-10-29T08:04:50.556Z [info]: ⏰ Cron triggered
+2025-10-29T08:04:50.848Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:00.568Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:00.773Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:10.584Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:10.787Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:20.598Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:20.821Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:30.610Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:30.826Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:40.622Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:40.842Z [info]: 🟢 No new blocks to index
+2025-10-29T08:05:50.637Z [info]: ⏰ Cron triggered
+2025-10-29T08:05:50.859Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:00.662Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:00.887Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:10.681Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:10.892Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:20.722Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:21.240Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:30.821Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:31.025Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:40.833Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:41.046Z [info]: 🟢 No new blocks to index
+2025-10-29T08:06:50.846Z [info]: ⏰ Cron triggered
+2025-10-29T08:06:51.061Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:00.860Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:01.063Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:10.872Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:11.071Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:20.885Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:21.108Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:30.899Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:31.122Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:40.915Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:41.127Z [info]: 🟢 No new blocks to index
+2025-10-29T08:07:50.928Z [info]: ⏰ Cron triggered
+2025-10-29T08:07:51.187Z [info]: 🟢 No new blocks to index
+2025-10-29T08:08:00.942Z [info]: ⏰ Cron triggered
+2025-10-29T08:08:01.165Z [info]: 🟢 No new blocks to index
+2025-10-29T08:08:10.962Z [info]: ⏰ Cron triggered
+2025-10-29T08:08:11.378Z [info]: 🟢 No new blocks to index
+2025-10-29T08:08:20.977Z [info]: ⏰ Cron triggered
+2025-10-29T08:08:21.199Z [info]: 🟢 No new blocks to index
+2025-10-29T08:08:30.989Z [info]: ⏰ Cron triggered
+2025-10-29T08:08:31.182Z [info]: 🟢 No new blocks to index
+2025-10-29T08:08:50.017Z [info]: ⏰ Cron triggered
+2025-10-29T08:08:50.230Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:00.031Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:00.227Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:10.058Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:10.267Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:20.080Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:20.277Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:30.095Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:30.306Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:40.117Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:40.344Z [info]: 🟢 No new blocks to index
+2025-10-29T08:09:50.130Z [info]: ⏰ Cron triggered
+2025-10-29T08:09:50.348Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:00.178Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:00.459Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:10.226Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:10.420Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:20.244Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:20.503Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:30.270Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:30.477Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:40.284Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:40.498Z [info]: 🟢 No new blocks to index
+2025-10-29T08:10:50.341Z [info]: ⏰ Cron triggered
+2025-10-29T08:10:50.556Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:00.353Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:00.568Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:10.363Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:10.591Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:20.376Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:20.622Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:30.405Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:30.820Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:40.419Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:40.635Z [info]: 🟢 No new blocks to index
+2025-10-29T08:11:50.431Z [info]: ⏰ Cron triggered
+2025-10-29T08:11:50.657Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:00.441Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:00.688Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:10.452Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:10.681Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:20.468Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:20.682Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:30.482Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:30.696Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:40.493Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:40.712Z [info]: 🟢 No new blocks to index
+2025-10-29T08:12:50.508Z [info]: ⏰ Cron triggered
+2025-10-29T08:12:50.743Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:00.521Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:00.762Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:10.533Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:10.806Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:20.546Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:20.827Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:30.561Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:30.808Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:40.595Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:40.830Z [info]: 🟢 No new blocks to index
+2025-10-29T08:13:50.606Z [info]: ⏰ Cron triggered
+2025-10-29T08:13:50.855Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:00.618Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:00.841Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:10.733Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:10.969Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:20.747Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:20.963Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:30.757Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:30.987Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:40.770Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:41.130Z [info]: 🟢 No new blocks to index
+2025-10-29T08:14:50.785Z [info]: ⏰ Cron triggered
+2025-10-29T08:14:51.006Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:00.804Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:01.056Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:10.860Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:11.225Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:20.873Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:21.115Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:30.899Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:31.125Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:36.007Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T08:15:36.640Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:40.654Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:40.800Z [info]: 🟢 No new blocks to index
+2025-10-29T08:15:50.670Z [info]: ⏰ Cron triggered
+2025-10-29T08:15:50.915Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:00.701Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:00.949Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:10.727Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:10.946Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:20.808Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:21.027Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:30.850Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:31.203Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:40.901Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:41.170Z [info]: 🟢 No new blocks to index
+2025-10-29T08:16:50.917Z [info]: ⏰ Cron triggered
+2025-10-29T08:16:51.168Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:00.056Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:00.345Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:10.129Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:10.392Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:20.188Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:20.390Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:30.198Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:30.532Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:40.212Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:40.436Z [info]: 🟢 No new blocks to index
+2025-10-29T08:17:50.252Z [info]: ⏰ Cron triggered
+2025-10-29T08:17:50.759Z [info]: 🟢 No new blocks to index
+2025-10-29T08:18:00.277Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:00.490Z [info]: 🟢 No new blocks to index
+2025-10-29T08:18:10.296Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:10.715Z [info]: 🔹 Indexing 929 → 929
+2025-10-29T08:18:11.608Z [error]: ❌ Error processing block 929: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x42d809ceeb38f398f7b2f1be5e9133728a861d6ab3b10f45e57a6bb8aca0db86" }
+2025-10-29T08:18:20.395Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:20.785Z [info]: 🟢 No new blocks to index
+2025-10-29T08:18:30.524Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:30.761Z [info]: 🟢 No new blocks to index
+2025-10-29T08:18:40.550Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:40.823Z [info]: 🟢 No new blocks to index
+2025-10-29T08:18:50.564Z [info]: ⏰ Cron triggered
+2025-10-29T08:18:50.794Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:00.599Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:00.939Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:10.610Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:10.836Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:20.634Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:20.894Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:30.673Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:30.887Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:40.742Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:40.963Z [info]: 🟢 No new blocks to index
+2025-10-29T08:19:50.755Z [info]: ⏰ Cron triggered
+2025-10-29T08:19:50.963Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:00.772Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:00.991Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:10.789Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:11.091Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:20.800Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:21.046Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:30.812Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:31.009Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:40.832Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:41.034Z [info]: 🟢 No new blocks to index
+2025-10-29T08:20:50.842Z [info]: ⏰ Cron triggered
+2025-10-29T08:20:51.059Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:00.895Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:01.120Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:10.927Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:11.206Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:20.951Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:21.165Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:30.962Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:31.349Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:40.981Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:41.293Z [info]: 🟢 No new blocks to index
+2025-10-29T08:21:50.997Z [info]: ⏰ Cron triggered
+2025-10-29T08:21:51.220Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:00.017Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:00.239Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:10.133Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:10.350Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:20.151Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:20.465Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:30.165Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:30.366Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:40.180Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:40.540Z [info]: 🟢 No new blocks to index
+2025-10-29T08:22:50.198Z [info]: ⏰ Cron triggered
+2025-10-29T08:22:50.448Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:00.552Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:01.143Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:10.602Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:10.812Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:20.612Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:20.814Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:30.624Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:30.844Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:40.636Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:40.913Z [info]: 🟢 No new blocks to index
+2025-10-29T08:23:50.652Z [info]: ⏰ Cron triggered
+2025-10-29T08:23:50.859Z [info]: 🟢 No new blocks to index
+2025-10-29T08:24:00.665Z [info]: ⏰ Cron triggered
+2025-10-29T08:24:00.881Z [info]: 🟢 No new blocks to index
+2025-10-29T08:24:10.680Z [info]: ⏰ Cron triggered
+2025-10-29T08:24:10.890Z [info]: 🟢 No new blocks to index
+2025-10-29T08:24:20.724Z [info]: ⏰ Cron triggered
+2025-10-29T08:24:20.930Z [info]: 🟢 No new blocks to index
+2025-10-29T08:41:30.704Z [info]: ⏰ Cron triggered
+2025-10-29T08:59:06.449Z [error]: ❌ Indexer job failed: Connection pool for ac-znolizv-shard-00-02.um4bii2.mongodb.net:27017 was cleared because another operation failed with: "connection <monitor> to 159.41.170.220:27017 timed out"
+2025-10-29T08:59:10.326Z [info]: ⏰ Cron triggered
+2025-10-29T08:59:11.320Z [info]: 🟢 No new blocks to index
+2025-10-29T09:06:20.598Z [info]: ⏰ Cron triggered
+2025-10-29T09:06:23.159Z [info]: 🟢 No new blocks to index
+2025-10-29T09:06:30.245Z [info]: ⏰ Cron triggered
+2025-10-29T09:06:30.792Z [info]: 🟢 No new blocks to index
+2025-10-29T09:06:40.584Z [info]: ⏰ Cron triggered
+2025-10-29T09:06:41.297Z [info]: 🟢 No new blocks to index
+2025-10-29T09:06:50.604Z [info]: ⏰ Cron triggered
+2025-10-29T09:06:50.831Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:00.623Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:00.856Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:10.640Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:10.861Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:20.660Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:20.885Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:30.675Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:30.882Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:40.688Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:40.927Z [info]: 🟢 No new blocks to index
+2025-10-29T09:07:50.702Z [info]: ⏰ Cron triggered
+2025-10-29T09:07:50.925Z [info]: 🟢 No new blocks to index
+2025-10-29T09:08:00.797Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:01.094Z [info]: 🟢 No new blocks to index
+2025-10-29T09:08:10.064Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:10.329Z [info]: 🟢 No new blocks to index
+2025-10-29T09:08:20.231Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:20.778Z [info]: 🟢 No new blocks to index
+2025-10-29T09:08:30.256Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:30.581Z [info]: 🟢 No new blocks to index
+2025-10-29T09:08:40.271Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:40.505Z [info]: 🔹 Indexing 941 → 941
+2025-10-29T09:08:40.960Z [error]: ❌ Error processing block 941: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x2476ad0208d8ccf1f55737a337198150a656d48d67119c5784a8d14fd9999918" }
+2025-10-29T09:08:50.293Z [info]: ⏰ Cron triggered
+2025-10-29T09:08:50.524Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:00.338Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:00.589Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:10.364Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:10.574Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:20.389Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:20.590Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:30.407Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:30.630Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:40.428Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:40.708Z [info]: 🟢 No new blocks to index
+2025-10-29T09:09:50.448Z [info]: ⏰ Cron triggered
+2025-10-29T09:09:50.677Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:00.471Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:00.675Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:10.490Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:10.689Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:20.510Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:20.739Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:30.529Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:30.851Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:40.547Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:40.820Z [info]: 🟢 No new blocks to index
+2025-10-29T09:10:50.567Z [info]: ⏰ Cron triggered
+2025-10-29T09:10:50.791Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:00.586Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:00.868Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:10.606Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:10.836Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:20.622Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:20.913Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:30.639Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:31.131Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:40.657Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:40.864Z [info]: 🟢 No new blocks to index
+2025-10-29T09:11:50.677Z [info]: ⏰ Cron triggered
+2025-10-29T09:11:50.930Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:00.699Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:00.926Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:10.716Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:10.922Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:20.734Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:20.927Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:30.754Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:30.966Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:40.776Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:41.040Z [info]: 🟢 No new blocks to index
+2025-10-29T09:12:50.797Z [info]: ⏰ Cron triggered
+2025-10-29T09:12:50.991Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:00.819Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:01.051Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:10.839Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:11.144Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:20.864Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:21.099Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:30.885Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:31.099Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:40.908Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:41.123Z [info]: 🟢 No new blocks to index
+2025-10-29T09:13:50.925Z [info]: ⏰ Cron triggered
+2025-10-29T09:13:51.182Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:00.947Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:01.286Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:10.962Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:11.195Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:20.988Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:21.206Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:30.005Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:30.246Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:40.027Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:40.258Z [info]: 🟢 No new blocks to index
+2025-10-29T09:14:50.048Z [info]: ⏰ Cron triggered
+2025-10-29T09:14:50.305Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:00.068Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:00.299Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:10.088Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:10.306Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:20.109Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:20.371Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:30.134Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:30.383Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:40.157Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:40.358Z [info]: 🟢 No new blocks to index
+2025-10-29T09:15:50.177Z [info]: ⏰ Cron triggered
+2025-10-29T09:15:50.419Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:00.199Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:00.417Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:10.220Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:10.446Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:20.246Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:20.497Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:30.261Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:30.486Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:40.286Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:40.522Z [info]: 🟢 No new blocks to index
+2025-10-29T09:16:50.311Z [info]: ⏰ Cron triggered
+2025-10-29T09:16:50.522Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:00.334Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:00.562Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:10.353Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:10.589Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:20.370Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:20.640Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:30.392Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:30.621Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:40.409Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:40.673Z [info]: 🟢 No new blocks to index
+2025-10-29T09:17:50.434Z [info]: ⏰ Cron triggered
+2025-10-29T09:17:50.648Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:00.453Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:00.679Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:10.470Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:10.732Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:20.485Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:20.733Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:30.507Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:30.722Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:40.526Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:40.810Z [info]: 🟢 No new blocks to index
+2025-10-29T09:18:50.548Z [info]: ⏰ Cron triggered
+2025-10-29T09:18:50.780Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:00.569Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:01.015Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:10.591Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:10.903Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:20.614Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:20.928Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:30.634Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:30.860Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:40.652Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:40.889Z [info]: 🟢 No new blocks to index
+2025-10-29T09:19:50.683Z [info]: ⏰ Cron triggered
+2025-10-29T09:19:51.007Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:00.704Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:00.948Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:10.728Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:10.953Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:20.748Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:21.008Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:30.771Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:31.020Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:40.791Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:41.017Z [info]: 🟢 No new blocks to index
+2025-10-29T09:20:50.815Z [info]: ⏰ Cron triggered
+2025-10-29T09:20:51.033Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:00.834Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:01.045Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:10.858Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:11.064Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:20.879Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:21.101Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:30.900Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:31.230Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:40.921Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:41.149Z [info]: 🟢 No new blocks to index
+2025-10-29T09:21:50.940Z [info]: ⏰ Cron triggered
+2025-10-29T09:21:51.170Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:00.962Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:01.206Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:10.990Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:11.284Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:20.004Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:20.209Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:30.026Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:30.253Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:40.044Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:40.278Z [info]: 🟢 No new blocks to index
+2025-10-29T09:22:50.061Z [info]: ⏰ Cron triggered
+2025-10-29T09:22:50.450Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:00.080Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:00.487Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:10.101Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:10.349Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:20.119Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:20.347Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:30.140Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:30.376Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:40.159Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:40.449Z [info]: 🟢 No new blocks to index
+2025-10-29T09:23:50.183Z [info]: ⏰ Cron triggered
+2025-10-29T09:23:50.607Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:00.203Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:00.435Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:10.217Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:10.461Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:20.234Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:20.467Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:30.249Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:30.796Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:40.268Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:40.510Z [info]: 🟢 No new blocks to index
+2025-10-29T09:24:50.290Z [info]: ⏰ Cron triggered
+2025-10-29T09:24:50.498Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:00.307Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:00.520Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:10.322Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:10.548Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:20.342Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:20.695Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:30.357Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:30.602Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:40.368Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:40.572Z [info]: 🟢 No new blocks to index
+2025-10-29T09:25:50.379Z [info]: ⏰ Cron triggered
+2025-10-29T09:25:50.608Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:00.393Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:00.613Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:10.407Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:10.627Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:20.423Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:20.741Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:30.439Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:30.653Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:40.450Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:40.667Z [info]: 🟢 No new blocks to index
+2025-10-29T09:26:50.472Z [info]: ⏰ Cron triggered
+2025-10-29T09:26:50.726Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:00.486Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:00.722Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:10.500Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:10.786Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:20.512Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:20.832Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:30.526Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:30.732Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:40.538Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:40.779Z [info]: 🟢 No new blocks to index
+2025-10-29T09:27:50.547Z [info]: ⏰ Cron triggered
+2025-10-29T09:27:50.807Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:00.570Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:00.820Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:10.584Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:10.943Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:20.605Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:20.831Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:30.620Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:30.839Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:40.635Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:40.840Z [info]: 🟢 No new blocks to index
+2025-10-29T09:28:50.646Z [info]: ⏰ Cron triggered
+2025-10-29T09:28:50.888Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:00.659Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:00.890Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:10.672Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:10.888Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:20.684Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:20.864Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:30.698Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:30.969Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:40.714Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:40.942Z [info]: 🟢 No new blocks to index
+2025-10-29T09:29:50.729Z [info]: ⏰ Cron triggered
+2025-10-29T09:29:51.001Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:00.744Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:00.992Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:10.765Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:11.000Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:20.779Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:20.992Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:30.883Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:31.204Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:40.899Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:41.091Z [info]: 🟢 No new blocks to index
+2025-10-29T09:30:50.913Z [info]: ⏰ Cron triggered
+2025-10-29T09:30:51.231Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:00.931Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:01.136Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:10.945Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:11.156Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:20.962Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:21.202Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:30.976Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:31.205Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:40.991Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:41.509Z [info]: 🟢 No new blocks to index
+2025-10-29T09:31:50.012Z [info]: ⏰ Cron triggered
+2025-10-29T09:31:50.324Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:00.058Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:00.295Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:10.075Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:10.614Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:20.111Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:20.414Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:30.135Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:30.406Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:40.154Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:40.363Z [info]: 🟢 No new blocks to index
+2025-10-29T09:32:50.167Z [info]: ⏰ Cron triggered
+2025-10-29T09:32:50.473Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:00.180Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:00.455Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:10.198Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:10.445Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:20.222Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:20.525Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:30.238Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:30.467Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:40.255Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:40.605Z [info]: 🟢 No new blocks to index
+2025-10-29T09:33:50.284Z [info]: ⏰ Cron triggered
+2025-10-29T09:33:50.512Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:00.297Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:00.551Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:10.312Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:10.563Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:20.326Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:20.542Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:30.339Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:30.563Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:40.351Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:40.575Z [info]: 🟢 No new blocks to index
+2025-10-29T09:34:50.363Z [info]: ⏰ Cron triggered
+2025-10-29T09:34:50.582Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:00.374Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:00.584Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:10.387Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:10.589Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:20.408Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:20.650Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:30.424Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:30.722Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:40.436Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:40.709Z [info]: 🟢 No new blocks to index
+2025-10-29T09:35:50.449Z [info]: ⏰ Cron triggered
+2025-10-29T09:35:50.657Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:00.463Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:00.712Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:10.480Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:10.764Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:20.493Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:20.783Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:30.506Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:30.767Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:40.519Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:40.760Z [info]: 🟢 No new blocks to index
+2025-10-29T09:36:50.533Z [info]: ⏰ Cron triggered
+2025-10-29T09:36:50.787Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:00.551Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:00.780Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:10.567Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:11.030Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:20.595Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:20.849Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:30.611Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:30.837Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:40.623Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:40.840Z [info]: 🟢 No new blocks to index
+2025-10-29T09:37:50.635Z [info]: ⏰ Cron triggered
+2025-10-29T09:37:51.086Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:00.657Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:00.902Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:10.670Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:10.897Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:20.683Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:20.887Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:30.695Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:31.056Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:40.708Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:40.957Z [info]: 🟢 No new blocks to index
+2025-10-29T09:38:50.725Z [info]: ⏰ Cron triggered
+2025-10-29T09:38:50.963Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:00.743Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:00.969Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:10.758Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:11.082Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:20.778Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:21.269Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:30.794Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:31.015Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:40.807Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:41.222Z [info]: 🟢 No new blocks to index
+2025-10-29T09:39:50.817Z [info]: ⏰ Cron triggered
+2025-10-29T09:39:51.024Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:00.830Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:01.073Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:10.842Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:11.034Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:20.857Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:21.090Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:30.871Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:31.084Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:40.884Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:41.087Z [info]: 🟢 No new blocks to index
+2025-10-29T09:40:50.900Z [info]: ⏰ Cron triggered
+2025-10-29T09:40:51.126Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:00.913Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:01.114Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:10.920Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:11.180Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:20.932Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:21.157Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:30.945Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:31.162Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:40.957Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:41.169Z [info]: 🟢 No new blocks to index
+2025-10-29T09:41:50.970Z [info]: ⏰ Cron triggered
+2025-10-29T09:41:51.314Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:00.984Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:01.252Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:11.000Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:11.225Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:20.015Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:20.262Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:30.027Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:30.278Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:40.038Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:40.267Z [info]: 🟢 No new blocks to index
+2025-10-29T09:42:50.049Z [info]: ⏰ Cron triggered
+2025-10-29T09:42:50.289Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:00.071Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:00.369Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:10.084Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:10.347Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:20.173Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:20.415Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:30.190Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:30.721Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:40.202Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:40.420Z [info]: 🟢 No new blocks to index
+2025-10-29T09:43:50.215Z [info]: ⏰ Cron triggered
+2025-10-29T09:43:50.543Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:00.236Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:00.456Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:10.261Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:10.554Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:20.279Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:20.781Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:30.294Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:30.639Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:40.305Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:40.535Z [info]: 🟢 No new blocks to index
+2025-10-29T09:44:50.317Z [info]: ⏰ Cron triggered
+2025-10-29T09:44:50.564Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:00.400Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:01.343Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:10.548Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:10.839Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:20.567Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:21.047Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:30.583Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:30.823Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:40.597Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:40.822Z [info]: 🟢 No new blocks to index
+2025-10-29T09:45:50.614Z [info]: ⏰ Cron triggered
+2025-10-29T09:45:50.875Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:00.631Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:00.869Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:10.648Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:10.897Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:20.673Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:20.883Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:30.693Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:30.986Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:40.708Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:40.967Z [info]: 🟢 No new blocks to index
+2025-10-29T09:46:50.735Z [info]: ⏰ Cron triggered
+2025-10-29T09:46:50.965Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:00.751Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:01.109Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:10.767Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:10.999Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:20.783Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:21.010Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:30.795Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:31.117Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:40.932Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:41.153Z [info]: 🟢 No new blocks to index
+2025-10-29T09:47:50.950Z [info]: ⏰ Cron triggered
+2025-10-29T09:47:51.188Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:00.964Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:01.186Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:10.979Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:11.204Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:20.997Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:21.662Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:30.008Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:30.217Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:40.020Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:40.389Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:47.105Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T09:48:47.928Z [info]: 🟢 No new blocks to index
+2025-10-29T09:48:50.985Z [info]: ⏰ Cron triggered
+2025-10-29T09:48:51.118Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:00.522Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:00.987Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:10.543Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:10.735Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:20.563Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:20.807Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:30.583Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:30.977Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:40.602Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:40.829Z [info]: 🟢 No new blocks to index
+2025-10-29T09:49:50.617Z [info]: ⏰ Cron triggered
+2025-10-29T09:49:50.822Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:00.635Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:00.859Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:10.649Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:10.876Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:20.661Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:20.976Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:30.674Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:30.865Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:40.689Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:40.932Z [info]: 🟢 No new blocks to index
+2025-10-29T09:50:50.813Z [info]: ⏰ Cron triggered
+2025-10-29T09:50:51.344Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:00.880Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:01.087Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:10.895Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:11.093Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:20.909Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:21.112Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:30.940Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:31.378Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:40.954Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:42.176Z [info]: 🟢 No new blocks to index
+2025-10-29T09:51:50.966Z [info]: ⏰ Cron triggered
+2025-10-29T09:51:51.211Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:00.982Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:01.175Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:10.001Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:10.222Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:20.014Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:20.259Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:30.028Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:30.226Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:40.042Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:41.030Z [info]: 🟢 No new blocks to index
+2025-10-29T09:52:50.055Z [info]: ⏰ Cron triggered
+2025-10-29T09:52:50.259Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:00.065Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:00.262Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:10.073Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:10.270Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:20.082Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:20.338Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:30.093Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:30.295Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:40.104Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:40.320Z [info]: 🟢 No new blocks to index
+2025-10-29T09:53:50.114Z [info]: ⏰ Cron triggered
+2025-10-29T09:53:50.331Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:00.125Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:00.320Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:10.139Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:10.360Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:20.151Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:20.361Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:30.163Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:30.557Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:40.173Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:40.426Z [info]: 🟢 No new blocks to index
+2025-10-29T09:54:50.184Z [info]: ⏰ Cron triggered
+2025-10-29T09:54:50.503Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:00.196Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:00.424Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:10.208Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:10.444Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:20.221Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:20.488Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:30.242Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:30.483Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:40.275Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:40.530Z [info]: 🟢 No new blocks to index
+2025-10-29T09:55:50.287Z [info]: ⏰ Cron triggered
+2025-10-29T09:55:50.477Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:00.300Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:00.537Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:10.314Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:11.195Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:20.327Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:20.544Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:30.341Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:30.546Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:40.354Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:40.625Z [info]: 🟢 No new blocks to index
+2025-10-29T09:56:50.369Z [info]: ⏰ Cron triggered
+2025-10-29T09:56:50.592Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:00.384Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:00.710Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:10.402Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:10.620Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:20.431Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:20.735Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:30.444Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:30.660Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:40.457Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:40.675Z [info]: 🟢 No new blocks to index
+2025-10-29T09:57:50.485Z [info]: ⏰ Cron triggered
+2025-10-29T09:57:50.956Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:00.524Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:01.271Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:10.543Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:10.765Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:20.558Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:20.809Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:30.572Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:30.807Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:40.583Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:40.835Z [info]: 🟢 No new blocks to index
+2025-10-29T09:58:50.596Z [info]: ⏰ Cron triggered
+2025-10-29T09:58:50.805Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:00.613Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:00.840Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:10.627Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:11.035Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:20.643Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:20.966Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:30.657Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:30.881Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:40.680Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:40.966Z [info]: 🟢 No new blocks to index
+2025-10-29T09:59:50.699Z [info]: ⏰ Cron triggered
+2025-10-29T09:59:50.944Z [info]: 🟢 No new blocks to index
+2025-10-29T10:00:00.714Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:00.958Z [info]: 🔹 Indexing 943 → 943
+2025-10-29T10:00:01.521Z [error]: ❌ Error processing block 943: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xea6c1fa9f5a3b555cdacf4f95711767d22525e9e2462196ff09d73b8cd9a9a4d" }
+2025-10-29T10:00:10.726Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:10.985Z [info]: 🟢 No new blocks to index
+2025-10-29T10:00:20.742Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:20.964Z [info]: 🟢 No new blocks to index
+2025-10-29T10:00:30.756Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:30.979Z [info]: 🟢 No new blocks to index
+2025-10-29T10:00:40.766Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:40.976Z [info]: 🟢 No new blocks to index
+2025-10-29T10:00:50.783Z [info]: ⏰ Cron triggered
+2025-10-29T10:00:51.027Z [info]: 🟢 No new blocks to index
+2025-10-29T10:01:00.797Z [info]: ⏰ Cron triggered
+2025-10-29T10:01:01.117Z [info]: 🟢 No new blocks to index
+2025-10-29T10:01:06.195Z [info]: 🛑 Indexer stopped
+2025-10-29T11:05:42.688Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:05:43.181Z [info]: 🟢 No new blocks to index
+2025-10-29T11:05:50.191Z [info]: ⏰ Cron triggered
+2025-10-29T11:05:50.438Z [info]: 🟢 No new blocks to index
+2025-10-29T11:06:00.211Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:00.545Z [info]: 🟢 No new blocks to index
+2025-10-29T11:06:10.240Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:10.495Z [info]: 🟢 No new blocks to index
+2025-10-29T11:06:20.298Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:20.523Z [info]: 🔹 Indexing 944 → 944
+2025-10-29T11:06:20.992Z [info]: ✅ Indexed Block 944 (1 txs)
+2025-10-29T11:06:30.317Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:30.552Z [info]: 🟢 No new blocks to index
+2025-10-29T11:06:40.339Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:40.642Z [info]: 🟢 No new blocks to index
+2025-10-29T11:06:50.364Z [info]: ⏰ Cron triggered
+2025-10-29T11:06:50.651Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:00.405Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:00.666Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:10.440Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:10.690Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:20.509Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:20.820Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:30.527Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:30.759Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:40.591Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:40.819Z [info]: 🟢 No new blocks to index
+2025-10-29T11:07:50.615Z [info]: ⏰ Cron triggered
+2025-10-29T11:07:50.846Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:00.632Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:00.899Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:10.651Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:10.866Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:20.670Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:20.895Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:30.689Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:30.948Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:40.706Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:40.939Z [info]: 🟢 No new blocks to index
+2025-10-29T11:08:50.723Z [info]: ⏰ Cron triggered
+2025-10-29T11:08:50.934Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:00.743Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:01.025Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:10.763Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:11.013Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:20.784Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:21.015Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:30.797Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:31.014Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:40.811Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:41.059Z [info]: 🟢 No new blocks to index
+2025-10-29T11:09:50.829Z [info]: ⏰ Cron triggered
+2025-10-29T11:09:51.076Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:00.849Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:01.064Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:05.854Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:10:06.477Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:10.487Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:10.613Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:20.513Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:20.740Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:30.535Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:30.756Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:40.550Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:40.794Z [info]: 🟢 No new blocks to index
+2025-10-29T11:10:50.572Z [info]: ⏰ Cron triggered
+2025-10-29T11:10:50.804Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:00.648Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:00.945Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:09.412Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:11:09.726Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:10.729Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:10.827Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:20.746Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:21.026Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:30.767Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:30.963Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:40.780Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:41.120Z [info]: 🟢 No new blocks to index
+2025-10-29T11:11:50.809Z [info]: ⏰ Cron triggered
+2025-10-29T11:11:51.003Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:00.820Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:01.094Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:10.836Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:11.066Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:20.852Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:21.103Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:30.863Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:31.093Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:40.877Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:41.111Z [info]: 🟢 No new blocks to index
+2025-10-29T11:12:50.898Z [info]: ⏰ Cron triggered
+2025-10-29T11:12:51.148Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:00.915Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:01.137Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:10.929Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:11.186Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:20.942Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:21.197Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:30.956Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:31.238Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:40.977Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:41.205Z [info]: 🟢 No new blocks to index
+2025-10-29T11:13:50.994Z [info]: ⏰ Cron triggered
+2025-10-29T11:13:51.223Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:00.010Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:00.253Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:10.040Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:10.287Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:20.056Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:20.395Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:25.400Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:14:26.628Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:30.638Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:30.860Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:40.656Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:41.059Z [info]: 🟢 No new blocks to index
+2025-10-29T11:14:50.677Z [info]: ⏰ Cron triggered
+2025-10-29T11:14:50.944Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:00.699Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:01.032Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:10.728Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:11.473Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:20.742Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:21.010Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:30.770Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:31.101Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:40.798Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:41.056Z [info]: 🟢 No new blocks to index
+2025-10-29T11:15:50.826Z [info]: ⏰ Cron triggered
+2025-10-29T11:15:51.073Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:00.855Z [info]: ⏰ Cron triggered
+2025-10-29T11:16:01.077Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:10.872Z [info]: ⏰ Cron triggered
+2025-10-29T11:16:11.357Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:16.589Z [info]: 🛑 Indexer stopped
+2025-10-29T11:16:26.730Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:16:27.376Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:30.420Z [info]: ⏰ Cron triggered
+2025-10-29T11:16:30.559Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:40.436Z [info]: ⏰ Cron triggered
+2025-10-29T11:16:40.664Z [info]: 🟢 No new blocks to index
+2025-10-29T11:16:50.450Z [info]: ⏰ Cron triggered
+2025-10-29T11:16:50.666Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:00.467Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:00.686Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:10.485Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:10.723Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:20.500Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:20.715Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:30.516Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:30.795Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:40.532Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:40.788Z [info]: 🟢 No new blocks to index
+2025-10-29T11:17:50.547Z [info]: ⏰ Cron triggered
+2025-10-29T11:17:50.803Z [info]: 🟢 No new blocks to index
+2025-10-29T11:18:00.572Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:00.807Z [info]: 🟢 No new blocks to index
+2025-10-29T11:18:10.591Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:11.098Z [info]: 🟢 No new blocks to index
+2025-10-29T11:18:20.607Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:21.009Z [info]: 🟢 No new blocks to index
+2025-10-29T11:18:30.620Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:30.858Z [info]: 🟢 No new blocks to index
+2025-10-29T11:18:40.634Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:40.901Z [info]: 🔹 Indexing 948 → 948
+2025-10-29T11:18:41.389Z [info]: ✅ Indexed Block 948 (1 txs)
+2025-10-29T11:18:50.648Z [info]: ⏰ Cron triggered
+2025-10-29T11:18:50.884Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:00.668Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:00.896Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:10.685Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:10.922Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:20.704Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:20.954Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:30.719Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:30.968Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:40.735Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:40.989Z [info]: 🟢 No new blocks to index
+2025-10-29T11:19:50.754Z [info]: ⏰ Cron triggered
+2025-10-29T11:19:50.976Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:00.814Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:01.034Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:10.837Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:11.072Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:20.866Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:21.102Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:30.891Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:31.140Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:33.523Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:20:34.278Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:40.298Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:40.564Z [info]: 🟢 No new blocks to index
+2025-10-29T11:20:50.339Z [info]: ⏰ Cron triggered
+2025-10-29T11:20:50.555Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:00.357Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:00.592Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:10.375Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:10.640Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:16.583Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:21:17.281Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:20.300Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:20.425Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:30.315Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:30.715Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:40.353Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:40.756Z [info]: 🟢 No new blocks to index
+2025-10-29T11:21:50.374Z [info]: ⏰ Cron triggered
+2025-10-29T11:21:50.590Z [info]: 🔹 Indexing 949 → 949
+2025-10-29T11:21:51.020Z [info]: ✅ Indexed Block 949 (1 txs)
+2025-10-29T11:22:00.396Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:00.636Z [info]: 🟢 No new blocks to index
+2025-10-29T11:22:10.437Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:10.690Z [info]: 🟢 No new blocks to index
+2025-10-29T11:22:20.490Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:20.733Z [info]: 🟢 No new blocks to index
+2025-10-29T11:22:30.513Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:30.840Z [info]: 🟢 No new blocks to index
+2025-10-29T11:22:40.527Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:40.777Z [info]: 🟢 No new blocks to index
+2025-10-29T11:22:50.548Z [info]: ⏰ Cron triggered
+2025-10-29T11:22:50.779Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:00.569Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:00.829Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:10.582Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:10.797Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:20.603Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:20.825Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:30.621Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:30.864Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:40.638Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:40.875Z [info]: 🟢 No new blocks to index
+2025-10-29T11:23:50.649Z [info]: ⏰ Cron triggered
+2025-10-29T11:23:50.917Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:00.730Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:00.957Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:10.747Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:10.972Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:20.765Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:21.007Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:30.781Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:30.997Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:36.636Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:24:37.726Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:40.743Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:40.867Z [info]: 🟢 No new blocks to index
+2025-10-29T11:24:50.773Z [info]: ⏰ Cron triggered
+2025-10-29T11:24:50.994Z [info]: 🔹 Indexing 950 → 950
+2025-10-29T11:24:51.345Z [info]: ✅ Indexed Block 950 (1 txs)
+2025-10-29T11:25:00.537Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:00.929Z [info]: 🟢 No new blocks to index
+2025-10-29T11:25:10.733Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:10.967Z [info]: 🟢 No new blocks to index
+2025-10-29T11:25:20.755Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:20.996Z [info]: 🔹 Indexing 951 → 951
+2025-10-29T11:25:21.254Z [info]: ✅ Indexed Block 951 (1 txs)
+2025-10-29T11:25:30.804Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:31.031Z [info]: 🟢 No new blocks to index
+2025-10-29T11:25:40.486Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:40.721Z [info]: 🟢 No new blocks to index
+2025-10-29T11:25:50.037Z [info]: ⏰ Cron triggered
+2025-10-29T11:25:50.482Z [info]: 🟢 No new blocks to index
+2025-10-29T11:26:00.612Z [info]: ⏰ Cron triggered
+2025-10-29T11:26:12.848Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:26:14.027Z [info]: 🟢 No new blocks to index
+2025-10-29T11:26:20.576Z [info]: ⏰ Cron triggered
+2025-10-29T11:26:22.258Z [info]: 🔹 Indexing 952 → 952
+2025-10-29T11:26:23.278Z [info]: ✅ Indexed Block 952 (1 txs)
+2025-10-29T11:26:30.665Z [info]: ⏰ Cron triggered
+2025-10-29T11:26:31.005Z [info]: 🟢 No new blocks to index
+2025-10-29T11:26:40.818Z [info]: ⏰ Cron triggered
+2025-10-29T11:26:41.095Z [info]: 🟢 No new blocks to index
+2025-10-29T11:26:50.844Z [info]: ⏰ Cron triggered
+2025-10-29T11:26:51.086Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:00.465Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:00.794Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:10.763Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:11.195Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:20.795Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:21.029Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:30.824Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:31.083Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:40.963Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:41.193Z [info]: 🟢 No new blocks to index
+2025-10-29T11:27:50.987Z [info]: ⏰ Cron triggered
+2025-10-29T11:27:51.198Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:00.032Z [info]: ⏰ Cron triggered
+2025-10-29T11:28:00.545Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:10.389Z [info]: ⏰ Cron triggered
+2025-10-29T11:28:10.697Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:22.812Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:28:23.586Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:30.605Z [info]: ⏰ Cron triggered
+2025-10-29T11:28:30.943Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:40.618Z [info]: ⏰ Cron triggered
+2025-10-29T11:28:40.872Z [info]: 🟢 No new blocks to index
+2025-10-29T11:28:50.640Z [info]: ⏰ Cron triggered
+2025-10-29T11:28:50.929Z [info]: 🟢 No new blocks to index
+2025-10-29T11:29:00.668Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:00.909Z [info]: 🟢 No new blocks to index
+2025-10-29T11:29:10.806Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:11.012Z [info]: 🔹 Indexing 953 → 953
+2025-10-29T11:29:11.468Z [info]: ✅ Indexed Block 953 (1 txs)
+2025-10-29T11:29:20.969Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:21.183Z [info]: 🟢 No new blocks to index
+2025-10-29T11:29:30.019Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:30.251Z [info]: 🟢 No new blocks to index
+2025-10-29T11:29:40.315Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:40.589Z [info]: 🟢 No new blocks to index
+2025-10-29T11:29:50.411Z [info]: ⏰ Cron triggered
+2025-10-29T11:29:50.894Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:00.785Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:01.176Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:10.420Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:10.681Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:20.449Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:20.669Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:30.476Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:30.713Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:40.513Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:40.819Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:45.837Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:30:46.653Z [info]: 🟢 No new blocks to index
+2025-10-29T11:30:50.758Z [info]: ⏰ Cron triggered
+2025-10-29T11:30:51.006Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:00.778Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:01.009Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:10.887Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:11.140Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:20.984Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:21.271Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:30.118Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:30.382Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:40.368Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:40.966Z [info]: 🟢 No new blocks to index
+2025-10-29T11:31:50.450Z [info]: ⏰ Cron triggered
+2025-10-29T11:31:50.702Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:00.463Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:00.728Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:10.476Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:10.700Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:20.489Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:20.715Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:30.502Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:30.730Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:40.523Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:40.940Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:50.539Z [info]: ⏰ Cron triggered
+2025-10-29T11:32:50.831Z [info]: 🟢 No new blocks to index
+2025-10-29T11:32:58.737Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:32:59.457Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:00.482Z [info]: ⏰ Cron triggered
+2025-10-29T11:33:00.702Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:10.501Z [info]: ⏰ Cron triggered
+2025-10-29T11:33:10.732Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:20.514Z [info]: ⏰ Cron triggered
+2025-10-29T11:33:20.730Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:31.621Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:33:32.258Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:40.751Z [info]: ⏰ Cron triggered
+2025-10-29T11:33:43.605Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:33:44.601Z [info]: 🟢 No new blocks to index
+2025-10-29T11:33:50.781Z [info]: ⏰ Cron triggered
+2025-10-29T11:33:51.154Z [info]: 🟢 No new blocks to index
+2025-10-29T11:34:10.642Z [info]: ⏰ Cron triggered
+2025-10-29T11:34:10.886Z [info]: 🟢 No new blocks to index
+2025-10-29T11:34:20.846Z [info]: ⏰ Cron triggered
+2025-10-29T11:34:21.107Z [info]: 🔹 Indexing 954 → 954
+2025-10-29T11:34:21.684Z [info]: ✅ Indexed Block 954 (1 txs)
+2025-10-29T11:34:30.938Z [info]: ⏰ Cron triggered
+2025-10-29T11:34:31.437Z [info]: 🟢 No new blocks to index
+2025-10-29T11:34:40.969Z [info]: ⏰ Cron triggered
+2025-10-29T11:34:41.212Z [info]: 🟢 No new blocks to index
+2025-10-29T11:34:50.015Z [info]: ⏰ Cron triggered
+2025-10-29T11:34:50.231Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:00.042Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:00.708Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:10.105Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:10.350Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:20.138Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:20.535Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:30.808Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:31.039Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:40.833Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:41.108Z [info]: 🟢 No new blocks to index
+2025-10-29T11:35:50.851Z [info]: ⏰ Cron triggered
+2025-10-29T11:35:51.084Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:00.910Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:01.736Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:10.189Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:10.517Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:20.214Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:20.423Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:30.228Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:31.049Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:40.286Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:40.509Z [info]: 🟢 No new blocks to index
+2025-10-29T11:36:50.420Z [info]: ⏰ Cron triggered
+2025-10-29T11:36:50.692Z [info]: 🔹 Indexing 955 → 955
+2025-10-29T11:36:51.381Z [info]: ✅ Indexed Block 955 (1 txs)
+2025-10-29T11:37:00.659Z [info]: ⏰ Cron triggered
+2025-10-29T11:37:01.065Z [info]: 🟢 No new blocks to index
+2025-10-29T11:37:17.848Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:37:19.398Z [info]: 🟢 No new blocks to index
+2025-10-29T11:37:20.599Z [info]: ⏰ Cron triggered
+2025-10-29T11:37:21.082Z [info]: 🟢 No new blocks to index
+2025-10-29T11:37:30.724Z [info]: ⏰ Cron triggered
+2025-10-29T11:37:31.320Z [info]: 🔹 Indexing 956 → 956
+2025-10-29T11:37:35.369Z [info]: ✅ Indexed Block 956 (1 txs)
+2025-10-29T11:37:40.330Z [info]: ⏰ Cron triggered
+2025-10-29T11:37:40.608Z [info]: 🟢 No new blocks to index
+2025-10-29T11:37:50.887Z [info]: ⏰ Cron triggered
+2025-10-29T11:37:51.319Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:04.627Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:38:07.212Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:10.475Z [info]: ⏰ Cron triggered
+2025-10-29T11:38:12.188Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:20.638Z [info]: ⏰ Cron triggered
+2025-10-29T11:38:20.847Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:30.667Z [info]: ⏰ Cron triggered
+2025-10-29T11:38:30.910Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:40.682Z [info]: ⏰ Cron triggered
+2025-10-29T11:38:40.937Z [info]: 🟢 No new blocks to index
+2025-10-29T11:38:50.696Z [info]: ⏰ Cron triggered
+2025-10-29T11:38:50.997Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:00.723Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:00.995Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:10.742Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:10.976Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:20.753Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:20.985Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:30.766Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:31.011Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:40.777Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:41.007Z [info]: 🟢 No new blocks to index
+2025-10-29T11:39:50.872Z [info]: ⏰ Cron triggered
+2025-10-29T11:39:51.741Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:00.370Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:00.977Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:10.480Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:10.723Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:20.501Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:20.738Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:30.589Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:30.943Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:40.246Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:40.651Z [info]: 🟢 No new blocks to index
+2025-10-29T11:40:50.322Z [info]: ⏰ Cron triggered
+2025-10-29T11:40:50.580Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:00.373Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:00.621Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:10.392Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:10.636Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:20.413Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:20.648Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:30.430Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:30.655Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:40.441Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:40.678Z [info]: 🟢 No new blocks to index
+2025-10-29T11:41:50.458Z [info]: ⏰ Cron triggered
+2025-10-29T11:41:50.788Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:00.486Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:00.703Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:10.499Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:10.729Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:20.511Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:20.809Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:30.528Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:30.758Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:40.544Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:40.792Z [info]: 🟢 No new blocks to index
+2025-10-29T11:42:50.566Z [info]: ⏰ Cron triggered
+2025-10-29T11:42:50.789Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:00.580Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:00.814Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:10.593Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:10.815Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:20.635Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:20.871Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:30.696Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:30.900Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:40.882Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:41.098Z [info]: 🟢 No new blocks to index
+2025-10-29T11:43:50.900Z [info]: ⏰ Cron triggered
+2025-10-29T11:43:51.182Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:00.996Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:01.280Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:10.031Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:10.293Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:20.056Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:20.424Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:30.097Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:30.513Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:40.205Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:40.653Z [info]: 🟢 No new blocks to index
+2025-10-29T11:44:50.280Z [info]: ⏰ Cron triggered
+2025-10-29T11:44:50.531Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:00.296Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:00.583Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:10.436Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:10.646Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:20.657Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:21.029Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:30.704Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:30.947Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:40.031Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:40.405Z [info]: 🟢 No new blocks to index
+2025-10-29T11:45:50.150Z [info]: ⏰ Cron triggered
+2025-10-29T11:45:50.394Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:00.172Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:00.382Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:10.192Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:10.418Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:20.250Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:20.758Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:30.294Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:30.706Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:40.315Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:40.553Z [info]: 🟢 No new blocks to index
+2025-10-29T11:46:50.335Z [info]: ⏰ Cron triggered
+2025-10-29T11:46:50.611Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:00.115Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:00.451Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:10.132Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:10.390Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:20.148Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:20.427Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:30.160Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:30.438Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:40.174Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:40.413Z [info]: 🟢 No new blocks to index
+2025-10-29T11:47:50.196Z [info]: ⏰ Cron triggered
+2025-10-29T11:47:50.718Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:00.269Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:00.543Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:10.396Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:10.619Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:20.424Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:20.906Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:30.439Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:30.638Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:40.452Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:40.692Z [info]: 🟢 No new blocks to index
+2025-10-29T11:48:50.469Z [info]: ⏰ Cron triggered
+2025-10-29T11:48:50.683Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:00.483Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:00.762Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:10.496Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:10.737Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:20.515Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:20.778Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:26.672Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:49:27.011Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:30.020Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:30.147Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:40.037Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:40.291Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:50.054Z [info]: ⏰ Cron triggered
+2025-10-29T11:49:50.333Z [info]: 🟢 No new blocks to index
+2025-10-29T11:49:56.083Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T11:49:56.470Z [info]: 🟢 No new blocks to index
+2025-10-29T11:50:00.505Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:00.666Z [info]: 🟢 No new blocks to index
+2025-10-29T11:50:10.565Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:10.813Z [info]: 🟢 No new blocks to index
+2025-10-29T11:50:20.587Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:20.819Z [info]: 🔹 Indexing 957 → 957
+2025-10-29T11:50:21.415Z [info]: ✅ Indexed Block 957 (1 txs)
+2025-10-29T11:50:30.624Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:30.904Z [info]: 🟢 No new blocks to index
+2025-10-29T11:50:40.652Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:40.889Z [info]: 🟢 No new blocks to index
+2025-10-29T11:50:50.693Z [info]: ⏰ Cron triggered
+2025-10-29T11:50:51.079Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:00.732Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:01.171Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:10.769Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:11.016Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:20.790Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:21.011Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:30.808Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:31.064Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:40.821Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:41.054Z [info]: 🟢 No new blocks to index
+2025-10-29T11:51:50.836Z [info]: ⏰ Cron triggered
+2025-10-29T11:51:51.094Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:00.860Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:01.090Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:10.876Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:11.293Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:20.896Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:21.129Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:30.919Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:31.143Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:40.939Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:41.204Z [info]: 🟢 No new blocks to index
+2025-10-29T11:52:50.964Z [info]: ⏰ Cron triggered
+2025-10-29T11:52:51.203Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:00.994Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:01.220Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:10.019Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:10.245Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:20.035Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:20.253Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:30.060Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:30.310Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:40.079Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:40.329Z [info]: 🟢 No new blocks to index
+2025-10-29T11:53:50.098Z [info]: ⏰ Cron triggered
+2025-10-29T11:53:50.334Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:00.116Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:00.357Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:10.138Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:10.348Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:20.155Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:20.360Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:30.168Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:30.392Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:40.186Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:40.403Z [info]: 🟢 No new blocks to index
+2025-10-29T11:54:50.199Z [info]: ⏰ Cron triggered
+2025-10-29T11:54:50.475Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:00.216Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:00.450Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:10.232Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:10.468Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:20.262Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:20.518Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:30.279Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:30.518Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:40.298Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:40.493Z [info]: 🟢 No new blocks to index
+2025-10-29T11:55:50.313Z [info]: ⏰ Cron triggered
+2025-10-29T11:55:50.658Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:00.387Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:00.620Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:10.428Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:10.788Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:20.455Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:20.735Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:30.492Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:30.767Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:40.517Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:40.715Z [info]: 🟢 No new blocks to index
+2025-10-29T11:56:50.542Z [info]: ⏰ Cron triggered
+2025-10-29T11:56:50.767Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:00.571Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:00.814Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:10.592Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:10.792Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:20.616Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:20.825Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:30.637Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:30.862Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:40.663Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:40.967Z [info]: 🟢 No new blocks to index
+2025-10-29T11:57:50.687Z [info]: ⏰ Cron triggered
+2025-10-29T11:57:50.897Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:00.714Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:00.941Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:10.745Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:10.956Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:20.770Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:21.005Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:30.796Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:31.011Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:40.820Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:41.059Z [info]: 🟢 No new blocks to index
+2025-10-29T11:58:50.845Z [info]: ⏰ Cron triggered
+2025-10-29T11:58:51.051Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:00.867Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:01.092Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:10.884Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:11.100Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:20.905Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:21.136Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:30.930Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:31.146Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:40.948Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:41.171Z [info]: 🟢 No new blocks to index
+2025-10-29T11:59:50.966Z [info]: ⏰ Cron triggered
+2025-10-29T11:59:51.174Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:00.995Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:01.222Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:10.024Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:10.265Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:20.056Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:20.321Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:30.087Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:30.339Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:40.106Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:40.324Z [info]: 🟢 No new blocks to index
+2025-10-29T12:00:50.128Z [info]: ⏰ Cron triggered
+2025-10-29T12:00:50.357Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:00.153Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:00.434Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:10.181Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:10.426Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:20.203Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:20.461Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:30.222Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:30.448Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:40.258Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:40.493Z [info]: 🟢 No new blocks to index
+2025-10-29T12:01:50.282Z [info]: ⏰ Cron triggered
+2025-10-29T12:01:50.519Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:00.308Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:00.545Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:10.326Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:10.753Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:20.358Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:20.578Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:30.377Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:30.639Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:40.397Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:40.627Z [info]: 🟢 No new blocks to index
+2025-10-29T12:02:50.431Z [info]: ⏰ Cron triggered
+2025-10-29T12:02:50.671Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:00.461Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:00.804Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:10.493Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:10.737Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:20.507Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:20.728Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:30.525Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:30.741Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:40.548Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:40.791Z [info]: 🟢 No new blocks to index
+2025-10-29T12:03:50.565Z [info]: ⏰ Cron triggered
+2025-10-29T12:03:50.809Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:00.590Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:00.819Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:10.611Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:10.840Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:20.639Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:20.879Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:30.659Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:30.913Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:40.676Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:40.901Z [info]: 🟢 No new blocks to index
+2025-10-29T12:04:50.701Z [info]: ⏰ Cron triggered
+2025-10-29T12:04:51.013Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:00.724Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:00.961Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:10.752Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:11.010Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:20.772Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:21.006Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:30.789Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:31.036Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:40.809Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:41.030Z [info]: 🟢 No new blocks to index
+2025-10-29T12:05:50.827Z [info]: ⏰ Cron triggered
+2025-10-29T12:05:51.046Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:00.852Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:01.072Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:10.875Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:11.144Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:20.905Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:21.132Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:30.923Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:31.130Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:40.942Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:41.172Z [info]: 🟢 No new blocks to index
+2025-10-29T12:06:50.966Z [info]: ⏰ Cron triggered
+2025-10-29T12:06:51.188Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:00.991Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:01.209Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:10.012Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:10.264Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:20.033Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:20.248Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:30.054Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:30.291Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:40.073Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:40.500Z [info]: 🟢 No new blocks to index
+2025-10-29T12:07:50.097Z [info]: ⏰ Cron triggered
+2025-10-29T12:07:50.415Z [info]: 🟢 No new blocks to index
+2025-10-29T12:08:00.115Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:00.379Z [info]: 🟢 No new blocks to index
+2025-10-29T12:08:10.149Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:10.389Z [info]: 🟢 No new blocks to index
+2025-10-29T12:08:20.179Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:20.558Z [info]: 🟢 No new blocks to index
+2025-10-29T12:08:30.203Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:30.418Z [info]: 🟢 No new blocks to index
+2025-10-29T12:08:40.223Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:40.548Z [info]: 🔹 Indexing 958 → 958
+2025-10-29T12:08:41.143Z [info]: ✅ Indexed Block 958 (1 txs)
+2025-10-29T12:08:50.242Z [info]: ⏰ Cron triggered
+2025-10-29T12:08:50.449Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:00.264Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:00.504Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:10.285Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:10.489Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:20.307Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:20.521Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:30.328Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:30.737Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:40.347Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:40.564Z [info]: 🟢 No new blocks to index
+2025-10-29T12:09:50.370Z [info]: ⏰ Cron triggered
+2025-10-29T12:09:50.686Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:00.396Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:00.635Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:10.413Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:10.644Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:20.431Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:20.695Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:30.453Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:30.672Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:40.472Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:40.699Z [info]: 🟢 No new blocks to index
+2025-10-29T12:10:50.494Z [info]: ⏰ Cron triggered
+2025-10-29T12:10:50.717Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:00.516Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:00.963Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:10.542Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:10.769Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:20.567Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:20.819Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:30.587Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:30.805Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:40.610Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:40.832Z [info]: 🟢 No new blocks to index
+2025-10-29T12:11:50.628Z [info]: ⏰ Cron triggered
+2025-10-29T12:11:50.842Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:00.654Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:00.883Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:10.675Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:10.903Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:20.695Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:20.951Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:30.714Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:30.930Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:40.735Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:40.997Z [info]: 🟢 No new blocks to index
+2025-10-29T12:12:50.747Z [info]: ⏰ Cron triggered
+2025-10-29T12:12:51.045Z [info]: 🟢 No new blocks to index
+2025-10-29T12:13:00.768Z [info]: ⏰ Cron triggered
+2025-10-29T12:13:01.247Z [info]: 🟢 No new blocks to index
+2025-10-29T12:13:07.983Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T12:13:08.656Z [info]: 🟢 No new blocks to index
+2025-10-29T12:13:11.531Z [info]: 🚀 Multi-Token Indexer Started
+2025-10-29T12:13:12.171Z [info]: 🟢 No new blocks to index
+2025-10-29T12:13:14.545Z [info]: 🛑 Indexer stopped

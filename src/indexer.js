@@ -342,11 +342,9 @@ async function saveBlockMeta(block) {
   );
 }
 
-// ✅ Token info cache
 // async function getTokenInfo(tokenAddress) {
 //   const addr = tokenAddress.toLowerCase();
-//   const existing = await TokenRegistry.findOne({ address: addr });
-//   if (existing) return existing;
+//   let existing = await TokenRegistry.findOne({ address: addr });
 
 //   const abi = [
 //     "function name() view returns (string)",
@@ -354,34 +352,83 @@ async function saveBlockMeta(block) {
 //     "function decimals() view returns (uint8)",
 //   ];
 
+//   // const contract = new ethers.Contract(addr, abi, provider);
+
+//   // ⚙️ fresh provider per token to avoid symbol caching bug
+//   const freshProvider = new ethers.JsonRpcProvider(
+//     process.env.RPC_HTTP + `?nocache=${Date.now()}`
+//   );
+//   const contract = new ethers.Contract(addr, abi, freshProvider);
+
 //   try {
-//     const contract = new ethers.Contract(addr, abi, provider);
-//     let [name, symbol, decimals] = await Promise.all([
-//       contract.name(),
-//       contract.symbol(),
-//       contract.decimals(),
+//     // ✅ Always try direct fetch first
+//     const [name, symbol, decimalsRaw] = await Promise.all([
+//       contract.name().catch(() => null),
+//       contract.symbol().catch(() => null),
+//       contract.decimals().catch(() => null),
 //     ]);
 
-//     decimals = Number(decimals);
+//     const decimals = decimalsRaw ? Number(decimalsRaw) : 18;
 
-//     const newToken = await TokenRegistry.create({
-//       address: addr,
-//       name,
-//       symbol,
-//       decimals,
-//     });
+//     // ✅ If fetched symbol different from DB, always overwrite
+//     if (
+//       !existing ||
+//       existing.symbol !== symbol ||
+//       existing.name !== name ||
+//       existing.decimals !== decimals
+//     ) {
+//       existing = await TokenRegistry.findOneAndUpdate(
+//         { address: addr },
+//         {
+//           name: name || "Unknown",
+//           symbol: symbol || "UNK",
+//           decimals,
+//         },
+//         { new: true, upsert: true }
+//       );
+//       logger.info(`💎 Updated token registry: ${symbol || "UNK"} (${addr})`);
+//     }
 
-//     logger.info(`💎 New token detected: ${symbol} (${addr})`);
-//     return newToken;
+//     return existing;
 //   } catch (err) {
-//     logger.warn(`⚠️ Failed to fetch token info for ${addr}: ${err.message}`);
-//     return { address: addr, name: "Unknown", symbol: "UNK", decimals: 18 };
+//     logger.warn(`⚠️ Token fetch failed for ${addr}: ${err.message}`);
+
+//     // ✅ Force re-fetch after short delay once if RPC timed out
+//     try {
+//       const fallbackContract = new ethers.Contract(addr, abi, provider);
+//       const [name, symbol, decimalsRaw] = await Promise.all([
+//         fallbackContract.name().catch(() => "Unknown"),
+//         fallbackContract.symbol().catch(() => "UNK"),
+//         fallbackContract.decimals().catch(() => 18),
+//       ]);
+
+//       const decimals = Number(decimalsRaw);
+//       existing = await TokenRegistry.findOneAndUpdate(
+//         { address: addr },
+//         { name, symbol, decimals },
+//         { new: true, upsert: true }
+//       );
+//       logger.info(`🔁 Retried and saved token info: ${symbol} (${addr})`);
+//       return existing;
+//     } catch (fallbackErr) {
+//       logger.error(`❌ Fallback failed: ${fallbackErr.message}`);
+//       return (
+//         existing || {
+//           address: addr,
+//           name: "Unknown",
+//           symbol: "UNK",
+//           decimals: 18,
+//         }
+//       );
+//     }
 //   }
 // }
 
+// ✅ User token holdings update
+
 async function getTokenInfo(tokenAddress) {
   const addr = tokenAddress.toLowerCase();
-  const existing = await TokenRegistry.findOne({ address: addr });
+  let existing = await TokenRegistry.findOne({ address: addr });
 
   const abi = [
     "function name() view returns (string)",
@@ -389,42 +436,124 @@ async function getTokenInfo(tokenAddress) {
     "function decimals() view returns (uint8)",
   ];
 
+  // 🧠 Fresh provider for every call to avoid cached symbols
+  const freshProvider = new ethers.JsonRpcProvider(
+    process.env.RPC_HTTP + `?nocache=${Date.now()}`
+  );
+  const contract = new ethers.Contract(addr, abi, freshProvider);
+
   try {
-    const contract = new ethers.Contract(addr, abi, provider);
-    let [name, symbol, decimals] = await Promise.all([
-      contract.name().catch(() => existing?.name || "Unknown"),
-      contract.symbol().catch(() => existing?.symbol || "UNK"),
-      contract.decimals().catch(() => existing?.decimals || 18),
+    // 🟢 1️⃣ Log token address being fetched
+    console.log("🔍 Fetching token info for:", addr);
+
+    // 🟢 2️⃣ Fetch actual on-chain values
+    const [name, symbol, decimalsRaw] = await Promise.all([
+      contract.name().catch(() => null),
+      contract.symbol().catch(() => null),
+      contract.decimals().catch(() => null),
     ]);
 
-    decimals = Number(decimals);
+    const decimals = decimalsRaw ? Number(decimalsRaw) : 18;
 
-    if (!existing || existing.symbol !== symbol || existing.name !== name) {
-      const updated = await TokenRegistry.findOneAndUpdate(
+    // 🟢 Log what RPC returned
+    console.log("🧾 RPC DATA:", {
+      name,
+      symbol,
+      decimals,
+    });
+
+    // 🟠 Log what’s already in DB
+    if (existing) {
+      console.log("📦 EXISTING DB ENTRY:", {
+        name: existing.name,
+        symbol: existing.symbol,
+        decimals: existing.decimals,
+      });
+    } else {
+      console.log("📦 No existing DB entry found, creating new.");
+    }
+
+    // 🔴 Check if RPC data mismatches DB data
+    if (
+      existing &&
+      symbol &&
+      existing.symbol.toLowerCase() !== symbol.toLowerCase()
+    ) {
+      console.log(
+        `⚠️ SYMBOL MISMATCH: existing=${existing.symbol} fetched=${symbol}`
+      );
+
+      existing = await TokenRegistry.findOneAndUpdate(
         { address: addr },
         { name, symbol, decimals },
         { new: true, upsert: true }
       );
-      logger.info(`🔁 Token info updated: ${symbol} (${addr})`);
-      return updated;
+
+      console.log(`🔁 FIXED SYMBOL: Now set to ${symbol}`);
     }
 
-    // ✅ Return cached if correct
+    // ✅ If new or changed, update registry
+    if (
+      !existing ||
+      existing.symbol !== symbol ||
+      existing.name !== name ||
+      existing.decimals !== decimals
+    ) {
+      existing = await TokenRegistry.findOneAndUpdate(
+        { address: addr },
+        {
+          name: name || "Unknown",
+          symbol: symbol || "UNK",
+          decimals,
+        },
+        { new: true, upsert: true }
+      );
+      console.log(`💾 Updated token registry entry: ${symbol || "UNK"}`);
+    }
+
+    // console.log("✅ Returning final token info:", {
+    //   address: existing.address,
+    //   name: existing.name,
+    //   symbol: existing.symbol,
+    //   decimals: existing.decimals,
+    // });
+
     return existing;
   } catch (err) {
-    logger.warn(`⚠️ Failed to fetch token info for ${addr}: ${err.message}`);
-    return (
-      existing || {
-        address: addr,
-        name: "Unknown",
-        symbol: "UNK",
-        decimals: 18,
-      }
-    );
+    console.log(`❌ ERROR FETCHING TOKEN ${addr}:`, err.message);
+
+    try {
+      // Retry once
+      const fallbackContract = new ethers.Contract(addr, abi, freshProvider);
+      const [name, symbol, decimalsRaw] = await Promise.all([
+        fallbackContract.name().catch(() => "Unknown"),
+        fallbackContract.symbol().catch(() => "UNK"),
+        fallbackContract.decimals().catch(() => 18),
+      ]);
+      const decimals = Number(decimalsRaw);
+
+      existing = await TokenRegistry.findOneAndUpdate(
+        { address: addr },
+        { name, symbol, decimals },
+        { new: true, upsert: true }
+      );
+
+      console.log(`🔁 RETRY SUCCESS: ${symbol} (${addr})`);
+      return existing;
+    } catch (fallbackErr) {
+      console.log(`❌ FALLBACK FAILED for ${addr}:`, fallbackErr.message);
+      return (
+        existing || {
+          address: addr,
+          name: "Unknown",
+          symbol: "UNK",
+          decimals: 18,
+        }
+      );
+    }
   }
 }
 
-// ✅ User token holdings update
 async function updateHoldings(from, to, tokenAddress, symbol, name, value) {
   const val = parseFloat(value || 0);
   if (val <= 0) return;
@@ -453,31 +582,84 @@ async function updateHoldings(from, to, tokenAddress, symbol, name, value) {
 }
 
 // ✅ Decode ERC-20 Transfers
+// async function decodeAllTokenTransfers(receipt) {
+//   const transfers = [];
+//   const iface = new ethers.Interface([
+//     "event Transfer(address indexed from, address indexed to, uint256 value)",
+//   ]);
+
+//   for (const log of receipt.logs || []) {
+//     if (log.topics[0] === ethers.id("Transfer(address,address,uint256)")) {
+//       try {
+//         const parsed = iface.parseLog(log);
+//         const tokenAddress = log.address.toLowerCase();
+//         const token = await getTokenInfo(tokenAddress);
+//         const humanValue = formatUnits(parsed.args.value, token.decimals);
+
+//         transfers.push({
+//           tokenName: token.name,
+//           tokenSymbol: token.symbol,
+//           tokenAddress,
+//           from: parsed.args.from,
+//           to: parsed.args.to,
+//           value: humanValue,
+//         });
+//       } catch (err) {
+//         logger.warn(`Failed to decode token transfer: ${err.message}`);
+//       }
+//     }
+//   }
+
+//   return transfers;
+// }
+
 async function decodeAllTokenTransfers(receipt) {
   const transfers = [];
   const iface = new ethers.Interface([
     "event Transfer(address indexed from, address indexed to, uint256 value)",
   ]);
 
-  for (const log of receipt.logs || []) {
-    if (log.topics[0] === ethers.id("Transfer(address,address,uint256)")) {
-      try {
-        const parsed = iface.parseLog(log);
-        const tokenAddress = log.address.toLowerCase();
-        const token = await getTokenInfo(tokenAddress);
-        const humanValue = formatUnits(parsed.args.value, token.decimals);
+  // 🧠 Deep clone logs to break reference
+  const safeLogs = JSON.parse(JSON.stringify(receipt.logs || []));
 
-        transfers.push({
-          tokenName: token.name,
-          tokenSymbol: token.symbol,
-          tokenAddress,
-          from: parsed.args.from,
-          to: parsed.args.to,
-          value: humanValue,
-        });
-      } catch (err) {
-        logger.warn(`Failed to decode token transfer: ${err.message}`);
-      }
+  for (const log of safeLogs) {
+    try {
+      if (
+        !log.topics ||
+        log.topics.length === 0 ||
+        log.topics[0] !== ethers.id("Transfer(address,address,uint256)")
+      )
+        continue;
+
+      const tokenAddress = log.address?.toLowerCase();
+      if (!tokenAddress || tokenAddress === ethers.ZeroAddress) continue;
+
+      const parsed = iface.parseLog({
+        topics: log.topics,
+        data: log.data,
+      });
+
+      const token = await getTokenInfo(tokenAddress);
+      const humanValue = formatUnits(parsed.args.value, token.decimals);
+
+      if (parseFloat(humanValue) === 0) continue;
+
+      // ✅ force isolate new object
+      const transferData = {
+        tokenAddress,
+        from: parsed.args.from,
+        to: parsed.args.to,
+        value: humanValue,
+        tokenName: token.name || "Unknown",
+        tokenSymbol: token.symbol || "UNK",
+        tokenDecimals: token.decimals || 18,
+      };
+
+      // console.log("🎯 CLEAN TRANSFER:", transferData);
+
+      transfers.push(transferData);
+    } catch (err) {
+      logger.warn(`Failed to decode token transfer: ${err.message}`);
     }
   }
 
@@ -516,16 +698,32 @@ async function processBlocks(start, end) {
           // await updateBalances(tx.from, tx.to, safeValue);
           await updateBalances(tx);
 
-          const receipt = await provider.getTransactionReceipt(tx.hash);
+          // ⚙️ Fresh provider per transaction to avoid stale cached logs
+          const freshProvider = new ethers.JsonRpcProvider(
+            process.env.RPC_HTTP + `?nocache=${Date.now()}`
+          );
+          const receipt = await freshProvider.getTransactionReceipt(tx.hash);
+
           if (!receipt) continue;
 
           const tokenTransfers = await decodeAllTokenTransfers(receipt);
 
           if (tokenTransfers.length > 0) {
             txData.type = "token";
-            txData.tokenTransfers = tokenTransfers;
 
-            for (const t of tokenTransfers) {
+            // 🧠 Deep clone to break reference (no RBM overwrite)
+            // txData.tokenTransfers = JSON.parse(JSON.stringify(tokenTransfers));
+            txData.tokenTransfers = tokenTransfers.map((t) => ({
+              tokenAddress: t.tokenAddress,
+              from: t.from,
+              to: t.to,
+              value: t.value,
+              symbol: t.tokenSymbol,
+              name: t.tokenName,
+              decimals: t.tokenDecimals,
+            }));
+
+            for (const t of txData.tokenTransfers) {
               await updateHoldings(
                 t.from,
                 t.to,
@@ -535,6 +733,12 @@ async function processBlocks(start, end) {
                 t.value
               );
             }
+
+            // 🧩 Debug log per TX
+            console.log("💾 SAVING TX:", {
+              hash: tx.hash,
+              tokenSymbols: txData.tokenTransfers.map((x) => x.tokenSymbol),
+            });
           }
 
           txDocs.push(txData);

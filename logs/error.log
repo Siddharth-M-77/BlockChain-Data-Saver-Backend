@@ -1059,3 +1059,4 @@
 2025-10-29T08:59:06.449Z [error]: ❌ Indexer job failed: Connection pool for ac-znolizv-shard-00-02.um4bii2.mongodb.net:27017 was cleared because another operation failed with: "connection <monitor> to 159.41.170.220:27017 timed out"
 2025-10-29T09:08:40.960Z [error]: ❌ Error processing block 941: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x2476ad0208d8ccf1f55737a337198150a656d48d67119c5784a8d14fd9999918" }
 2025-10-29T10:00:01.521Z [error]: ❌ Error processing block 943: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0xea6c1fa9f5a3b555cdacf4f95711767d22525e9e2462196ff09d73b8cd9a9a4d" }
+2025-10-31T07:30:01.701Z [error]: ❌ Error processing block 1186: E11000 duplicate key error collection: BLOCKCHAINDATA.transactions index: hash_1 dup key: { hash: "0x92ede07ef6775a219c70c8ff2c86941a538965eb0375eb2881b9b9efa780ab24" }

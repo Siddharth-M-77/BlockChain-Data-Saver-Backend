@@ -300,48 +300,6 @@
 //   process.exit(0);
 // });
 
-import dotenv from "dotenv";
-import mongoose from "mongoose";
-import cron from "node-cron";
-import { ethers, formatUnits } from "ethers";
-
-import BlockMeta from "./models/BlockMeta.js";
-import Transaction from "./models/Transaction.model.js";
-import UserHolding from "./models/UserHolding.js";
-import TokenRegistry from "./models/TokenRegistry.js";
-import { logger } from "./utils/logger.js";
-import connectToDB from "./DB/DB.js";
-import { updateBalances } from "./utils/updatebalance.js";
-
-dotenv.config();
-
-// ⚙️ ENV Setup
-const RPC_HTTP = process.env.RPC_HTTP;
-const RPC_WS = process.env.RPC_WS;
-const BATCH_SIZE = Number(process.env.BATCH_SIZE || 50);
-const CRON_SCHEDULE = process.env.CRON_SCHEDULE || "*/1 * * * *";
-const USE_WS = process.env.USE_WS === "true";
-
-const provider = USE_WS
-  ? new ethers.WebSocketProvider(RPC_WS)
-  : new ethers.JsonRpcProvider(RPC_HTTP);
-
-let isIndexing = false;
-
-// ✅ Get last indexed block
-async function getLastIndexedBlock() {
-  const last = await BlockMeta.findOne().sort({ number: -1 });
-  return last ? last.number : -1;
-}
-
-async function saveBlockMeta(block) {
-  await BlockMeta.updateOne(
-    { number: block.number },
-    { hash: block.hash, timestamp: block.timestamp },
-    { upsert: true }
-  );
-}
-
 // async function getTokenInfo(tokenAddress) {
 //   const addr = tokenAddress.toLowerCase();
 //   let existing = await TokenRegistry.findOne({ address: addr });
@@ -425,6 +383,79 @@ async function saveBlockMeta(block) {
 // }
 
 // ✅ User token holdings update
+// ✅ Decode ERC-20 Transfers
+// async function decodeAllTokenTransfers(receipt) {
+//   const transfers = [];
+//   const iface = new ethers.Interface([
+//     "event Transfer(address indexed from, address indexed to, uint256 value)",
+//   ]);
+
+//   for (const log of receipt.logs || []) {
+//     if (log.topics[0] === ethers.id("Transfer(address,address,uint256)")) {
+//       try {
+//         const parsed = iface.parseLog(log);
+//         const tokenAddress = log.address.toLowerCase();
+//         const token = await getTokenInfo(tokenAddress);
+//         const humanValue = formatUnits(parsed.args.value, token.decimals);
+
+//         transfers.push({
+//           tokenName: token.name,
+//           tokenSymbol: token.symbol,
+//           tokenAddress,
+//           from: parsed.args.from,
+//           to: parsed.args.to,
+//           value: humanValue,
+//         });
+//       } catch (err) {
+//         logger.warn(`Failed to decode token transfer: ${err.message}`);
+//       }
+//     }
+//   }
+
+//   return transfers;
+// }
+
+import dotenv from "dotenv";
+import mongoose from "mongoose";
+import cron from "node-cron";
+import { ethers, formatUnits } from "ethers";
+
+import BlockMeta from "./models/BlockMeta.js";
+import Transaction from "./models/Transaction.model.js";
+import UserHolding from "./models/UserHolding.js";
+import TokenRegistry from "./models/TokenRegistry.js";
+import { logger } from "./utils/logger.js";
+import connectToDB from "./DB/DB.js";
+import { updateBalances } from "./utils/updatebalance.js";
+
+dotenv.config();
+
+// ⚙️ ENV Setup
+const RPC_HTTP = process.env.RPC_HTTP;
+const RPC_WS = process.env.RPC_WS;
+const BATCH_SIZE = Number(process.env.BATCH_SIZE || 50);
+const CRON_SCHEDULE = process.env.CRON_SCHEDULE || "*/1 * * * *";
+const USE_WS = process.env.USE_WS === "true";
+
+const provider = USE_WS
+  ? new ethers.WebSocketProvider(RPC_WS)
+  : new ethers.JsonRpcProvider(RPC_HTTP);
+
+let isIndexing = false;
+
+// ✅ Get last indexed block
+async function getLastIndexedBlock() {
+  const last = await BlockMeta.findOne().sort({ number: -1 });
+  return last ? last.number : -1;
+}
+
+async function saveBlockMeta(block) {
+  await BlockMeta.updateOne(
+    { number: block.number },
+    { hash: block.hash, timestamp: block.timestamp },
+    { upsert: true }
+  );
+}
 
 async function getTokenInfo(tokenAddress) {
   const addr = tokenAddress.toLowerCase();
@@ -580,38 +611,6 @@ async function updateHoldings(from, to, tokenAddress, symbol, name, value) {
     );
   }
 }
-
-// ✅ Decode ERC-20 Transfers
-// async function decodeAllTokenTransfers(receipt) {
-//   const transfers = [];
-//   const iface = new ethers.Interface([
-//     "event Transfer(address indexed from, address indexed to, uint256 value)",
-//   ]);
-
-//   for (const log of receipt.logs || []) {
-//     if (log.topics[0] === ethers.id("Transfer(address,address,uint256)")) {
-//       try {
-//         const parsed = iface.parseLog(log);
-//         const tokenAddress = log.address.toLowerCase();
-//         const token = await getTokenInfo(tokenAddress);
-//         const humanValue = formatUnits(parsed.args.value, token.decimals);
-
-//         transfers.push({
-//           tokenName: token.name,
-//           tokenSymbol: token.symbol,
-//           tokenAddress,
-//           from: parsed.args.from,
-//           to: parsed.args.to,
-//           value: humanValue,
-//         });
-//       } catch (err) {
-//         logger.warn(`Failed to decode token transfer: ${err.message}`);
-//       }
-//     }
-//   }
-
-//   return transfers;
-// }
 
 async function decodeAllTokenTransfers(receipt) {
   const transfers = [];

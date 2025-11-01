@@ -3,6 +3,17 @@ import axios from "axios";
 import BlockMeta from "../models/BlockMeta.js";
 import UserHolding from "../models/UserHolding.js";
 import { ethers } from "ethers";
+import BigNumber from "bignumber.js";
+const provider = new ethers.JsonRpcProvider("https://rpc.cbmscan.com/");
+const RPC_URL = process.env.RPC_HTTP || "http://127.0.0.1:8545";
+const ERC20_ABI = [
+  "function name() view returns (string)",
+  "function symbol() view returns (string)",
+  "function decimals() view returns (uint8)",
+  "function totalSupply() view returns (uint256)",
+  "function balanceOf(address) view returns (uint256)",
+];
+
 export const smartTransactionSearch = async (req, res) => {
   try {
     const { input } = req.params;
@@ -20,13 +31,14 @@ export const smartTransactionSearch = async (req, res) => {
     const isAddress = value.startsWith("0x") && value.length === 42;
     const isBlockNumber = /^[0-9]+$/.test(value);
 
-    // ✅ Pagination setup
+    // ✅ Pagination setup (only for block search)
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 10;
     const skip = (page - 1) * limit;
 
-    console.log("🔍 Searching:", value, "| page:", page, "| limit:", limit);
+    console.log("🔍 Searching:", value);
 
+    // 🧩 Case 1: Transaction Hash
     if (isHash) {
       const tx = await Transaction.findOne({ hash: value }).lean();
       if (!tx) {
@@ -39,25 +51,26 @@ export const smartTransactionSearch = async (req, res) => {
       return res.status(200).json({
         type: "transaction",
         success: true,
-        currentPage: 1,
-        totalPages: 1,
-        totalRecords: 1,
-        perPage: 1,
         data: [tx],
       });
     }
 
+    // 🧩 Case 2: Address (From / To) — NO PAGINATION
     if (isAddress) {
-      const total = await Transaction.countDocuments({
-        $or: [{ from: value }, { to: value }],
-      }).lean();
+      // ✅ Case-insensitive regex (handles upper/lower)
+      const regex = new RegExp(`^${value}$`, "i");
 
+      // Include token transfers also
       const txs = await Transaction.find({
-        $or: [{ from: value }, { to: value }],
+        $or: [
+          { from: regex },
+          { to: regex },
+          { "tokenTransfers.from": regex },
+          { "tokenTransfers.to": regex },
+        ],
       })
         .sort({ timeStamp: -1 })
-        .skip(skip)
-        .limit(limit);
+        .lean();
 
       if (!txs.length) {
         return res.status(404).json({
@@ -69,15 +82,12 @@ export const smartTransactionSearch = async (req, res) => {
       return res.status(200).json({
         type: "address",
         success: true,
-        currentPage: page,
-        totalPages: Math.ceil(total / limit),
-        totalRecords: total,
-        perPage: limit,
+        totalRecords: txs.length,
         data: txs,
       });
     }
 
-    // ✅ CASE 3: Block Number (paginated)
+    // 🧩 Case 3: Block Number (with pagination)
     if (isBlockNumber) {
       const total = await Transaction.countDocuments({
         blockNumber: Number(value),
@@ -107,6 +117,7 @@ export const smartTransactionSearch = async (req, res) => {
       });
     }
 
+    // ❌ Invalid input
     return res.status(400).json({
       type: "invalid",
       message:
@@ -231,8 +242,6 @@ export const getAllTRansactionCount = async (req, res) => {
   }
 };
 
-const RPC_URL = process.env.RPC_HTTP || "http://127.0.0.1:8545";
-
 // Helper function for JSON-RPC calls
 const rpcCall = async (method, params = []) => {
   const { data } = await axios.post(RPC_URL, {
@@ -331,8 +340,6 @@ export const getAllRbmHolders = async (req, res) => {
   }
 };
 
-import BigNumber from "bignumber.js";
-
 const fromHexToCbm = (hex) => {
   try {
     const value = new BigNumber(hex);
@@ -394,16 +401,6 @@ export const getCbmHolders = async (req, res) => {
     res.status(500).json({ success: false, message: error.message });
   }
 };
-
-const ERC20_ABI = [
-  "function name() view returns (string)",
-  "function symbol() view returns (string)",
-  "function decimals() view returns (uint8)",
-  "function totalSupply() view returns (uint256)",
-  "function balanceOf(address) view returns (uint256)",
-];
-
-const provider = new ethers.JsonRpcProvider("https://rpc.cbmscan.com/");
 
 // 🧹 Helper to remove all BigInts from any nested object
 function sanitizeBigInts(obj) {
@@ -552,5 +549,58 @@ export const getTokenTransfers = async (req, res) => {
   } catch (err) {
     console.error("getTokenTransfers error:", err);
     res.status(500).json({ success: false, message: err.message });
+  }
+};
+
+export const getUserHoldings = async (req, res) => {
+  try {
+    const { address } = req.params;
+
+    if (!address || !address.trim()) {
+      return res.status(400).json({
+        success: false,
+        message: "User address missing or invalid",
+      });
+    }
+
+    const userAddress = address.trim().toLowerCase();
+
+    const holdings = await UserHolding.find({
+      address: userAddress,
+      balance: { $gt: 0 },
+    })
+      .sort({ balance: -1 })
+      .lean();
+
+    if (!holdings.length) {
+      return res.status(404).json({
+        success: false,
+        message: "No token holdings found for this user address",
+      });
+    }
+
+    // ✅ Format total worth (optional)
+    const totalTokens = holdings.length;
+    const totalBalance = holdings.reduce((sum, h) => sum + h.balance, 0);
+
+    return res.status(200).json({
+      success: true,
+      user: userAddress,
+      totalTokens,
+      totalBalance: parseFloat(totalBalance.toFixed(6)),
+      holdings: holdings.map((h) => ({
+        tokenAddress: h.tokenAddress,
+        tokenSymbol: h.tokenSymbol,
+        tokenName: h.tokenName,
+        balance: parseFloat(h.balance.toFixed(6)),
+      })),
+    });
+  } catch (error) {
+    console.error("❌ getUserHoldings error:", error.message);
+    return res.status(500).json({
+      success: false,
+      message: "Server error",
+      error: error.message,
+    });
   }
 };

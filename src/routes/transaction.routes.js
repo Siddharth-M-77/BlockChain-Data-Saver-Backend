@@ -8,6 +8,7 @@ import {
   getAllBlocks,
   getAllRbmHolders,
   getTokenDetails,
+  getUserHoldings,
   getTokenHolders,
   getTokenTransfers,
 } from "../../src/controller/transaction.controller.js";
@@ -29,6 +30,7 @@ router.get("/get-rbm-holders", getAllRbmHolders);
 router.get("/get-cbm-holders", getCbmHolders);
 router.get("/:tokenAddress", getTokenDetails);
 router.get("/:tokenAddress/holders", getTokenHolders);
+router.get("/holdings/:address", getUserHoldings);
 router.get("/:tokenAddress/transfers", getTokenTransfers);
 router.post("/buy", sendCBM);
 
